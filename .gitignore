@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# local env & secrets
+.env
+.env.local
+.env.*.local
+
+# vercel
+.vercel/
+
+# data-pipeline caches
+data-pipeline/_cache/
+*.pyc
+__pycache__/
