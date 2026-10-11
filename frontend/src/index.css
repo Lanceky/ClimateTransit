@@ -1,0 +1,31 @@
+@import 'tailwindcss';
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: #070b1a;
+  color: #e8ecf6;
+  font-family: 'Space Grotesk', Inter, system-ui, -apple-system, sans-serif;
+  overflow: hidden;
+}
+
+.glass {
+  background: rgba(14, 20, 40, 0.72);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(120, 160, 255, 0.14);
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.45);
+}
+
+.text-glow {
+  text-shadow: 0 0 18px rgba(45, 226, 230, 0.45);
+}
