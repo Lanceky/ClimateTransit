@@ -1,0 +1,209 @@
+{
+  "note": "Curated resilience actions keyed by Köppen main group and a generic fallback. Sources are FAO, IPCC, WHO and national agencies. Language is 'helps reduce risk'; confirm with local experts before acting.",
+  "fallback": [
+    {
+      "id": "generic-earlywarning",
+      "hazard": "multiple",
+      "title": "Sign up for official early warnings",
+      "why": "A shifting climate zone changes which extremes are likely here.",
+      "action": "Register for your national meteorological service's heat, flood and air-quality alerts and agree a household plan for each.",
+      "audience": "household",
+      "horizon": "now",
+      "earlyWarning": "Watch for multi-day heat, heavy-rain or air-quality advisories.",
+      "evidenceNote": "WHO/WMO multi-hazard early-warning guidance.",
+      "sourceUrl": "https://www.who.int/activities/providing-early-warning-systems-for-climate-and-health"
+    },
+    {
+      "id": "generic-water",
+      "hazard": "water scarcity",
+      "title": "Use water efficiently and store some",
+      "why": "Both wetter and drier futures stress local water supplies.",
+      "action": "Fix leaks, add rainwater capture, and keep a few days of safe drinking water; helps reduce impact of supply disruption.",
+      "audience": "household",
+      "horizon": "this season",
+      "earlyWarning": "Falling reservoir levels or hosepipe restrictions.",
+      "evidenceNote": "FAO water-use efficiency guidance.",
+      "sourceUrl": "https://www.fao.org/land-water/water/en/"
+    }
+  ],
+  "byGroup": {
+    "A": [
+      {
+        "id": "A-flood-household",
+        "hazard": "flooding",
+        "title": "Flood-proof the home and documents",
+        "why": "Tropical zones face heavier downpours and rising flood risk.",
+        "action": "Raise electrics, keep sandbags/boards ready, and store IDs in a waterproof grab-bag; helps reduce flood losses.",
+        "audience": "household",
+        "horizon": "this season",
+        "earlyWarning": "River gauges rising, repeated heavy-rain warnings.",
+        "evidenceNote": "IPCC AR6 WGII: increased heavy precipitation in tropics.",
+        "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/"
+      },
+      {
+        "id": "A-crop-farmer",
+        "hazard": "humidity heat",
+        "title": "Switch to heat- and flood-tolerant varieties",
+        "why": "Hotter, wetter seasons raise crop disease and heat stress.",
+        "action": "Adopt submergence-tolerant rice and improved drainage; stagger planting to spread risk. Helps reduce harvest loss.",
+        "audience": "farmer",
+        "horizon": "long term",
+        "earlyWarning": "Earlier/heavier monsoon onset, waterlogged fields.",
+        "evidenceNote": "FAO climate-resilient agriculture.",
+        "sourceUrl": "https://www.fao.org/climate-smart-agriculture/en/"
+      },
+      {
+        "id": "A-drainage-planner",
+        "hazard": "flooding",
+        "title": "Upgrade urban drainage and green space",
+        "why": "Dense tropical cities flood when drains are overwhelmed.",
+        "action": "Expand permeable surfaces, clear culverts before the wet season, and protect wetlands; helps reduce urban flooding.",
+        "audience": "planner",
+        "horizon": "long term",
+        "earlyWarning": "Recurrent surface flooding after short storms.",
+        "evidenceNote": "IPCC AR6 WGII urban adaptation.",
+        "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/"
+      }
+    ],
+    "B": [
+      {
+        "id": "B-heat-household",
+        "hazard": "extreme heat",
+        "title": "Make a hot-day plan and cool room",
+        "why": "Arid zones are warming toward dangerous heat thresholds.",
+        "action": "Identify a cool room, shift activity to morning/evening, hydrate, and check on elderly neighbours; helps prevent heat illness.",
+        "audience": "household",
+        "horizon": "now",
+        "earlyWarning": "Forecast highs above local heat-health threshold for 2+ days.",
+        "evidenceNote": "WHO heat-health action plans.",
+        "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
+      },
+      {
+        "id": "B-water-farmer",
+        "hazard": "water scarcity",
+        "title": "Drip irrigation and soil moisture capture",
+        "why": "Less reliable rainfall and higher evaporation shrink water budgets.",
+        "action": "Switch to drip lines, mulch, and drought-tolerant crops; schedule irrigation to soil-moisture data. Helps reduce water stress.",
+        "audience": "farmer",
+        "horizon": "long term",
+        "earlyWarning": "Declining well levels, longer dry spells.",
+        "evidenceNote": "FAO water productivity in dry regions.",
+        "sourceUrl": "https://www.fao.org/land-water/water/en/"
+      },
+      {
+        "id": "B-dust-planner",
+        "hazard": "dust",
+        "title": "Stabilise soils and track dust advisories",
+        "why": "Expanding drylands raise dust storms and PM pollution.",
+        "action": "Maintain vegetation buffers, issue dust advisories, and support mask access for outdoor workers; helps reduce respiratory exposure.",
+        "audience": "planner",
+        "horizon": "this season",
+        "earlyWarning": "Rising PM10/dust forecasts, bare exposed soil.",
+        "evidenceNote": "WMO Sand and Dust Storm guidance.",
+        "sourceUrl": "https://community.wmo.int/en/activity-areas/sand-and-dust-storm-warning-advisory-and-assessment-system-sds-was"
+      }
+    ],
+    "C": [
+      {
+        "id": "C-wildfire-household",
+        "hazard": "wildfire",
+        "title": "Create defensible space and a go-bag",
+        "why": "Temperate/Mediterranean zones face longer, drier fire seasons.",
+        "action": "Clear vegetation near structures, prepare an evacuation go-bag, and agree a leave-early trigger; helps reduce fire injury and loss.",
+        "audience": "household",
+        "horizon": "this season",
+        "earlyWarning": "Red-flag fire-weather warnings, prolonged dry heat.",
+        "evidenceNote": "IPCC AR6 WGII: increased fire weather.",
+        "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/"
+      },
+      {
+        "id": "C-vines-farmer",
+        "hazard": "drought",
+        "title": "Adjust crop mix and water storage",
+        "why": "Hotter summers push some crops past their comfort range.",
+        "action": "Trial heat-tolerant cultivars, add on-farm storage, and shade-net sensitive crops; helps reduce yield loss.",
+        "audience": "farmer",
+        "horizon": "long term",
+        "earlyWarning": "Earlier heat onset, reduced spring soil moisture.",
+        "evidenceNote": "FAO climate-smart agriculture.",
+        "sourceUrl": "https://www.fao.org/climate-smart-agriculture/en/"
+      },
+      {
+        "id": "C-heat-planner",
+        "hazard": "heatwave",
+        "title": "Urban cooling and heat-health plan",
+        "why": "Mild temperate cities are unprepared for new heat extremes.",
+        "action": "Plant shade trees, open cooling centres, and publish a heat-health action plan; helps prevent heat deaths.",
+        "audience": "planner",
+        "horizon": "long term",
+        "earlyWarning": "Night-time temperatures staying high during heatwaves.",
+        "evidenceNote": "WHO/Europe heat-health action plans.",
+        "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
+      }
+    ],
+    "D": [
+      {
+        "id": "D-flood-household",
+        "hazard": "flooding",
+        "title": "Prepare for heavier rain and snowmelt",
+        "why": "Continental zones see more intense rain and faster thaw.",
+        "action": "Check sump pumps, clear gutters, and keep an emergency kit; helps reduce flood damage and outages.",
+        "audience": "household",
+        "horizon": "this season",
+        "earlyWarning": "Rapid spring warming over deep snowpack.",
+        "evidenceNote": "IPCC AR6 WGII mid-latitude precipitation.",
+        "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/"
+      },
+      {
+        "id": "D-season-farmer",
+        "hazard": "heat",
+        "title": "Use the longer, warmer growing season carefully",
+        "why": "Warming extends the season but adds heat and pest risk.",
+        "action": "Trial longer-maturing varieties with irrigation backup and monitor new pests; helps stabilise yields.",
+        "audience": "farmer",
+        "horizon": "long term",
+        "earlyWarning": "Earlier last-frost dates, new pest sightings.",
+        "evidenceNote": "FAO climate-smart agriculture.",
+        "sourceUrl": "https://www.fao.org/climate-smart-agriculture/en/"
+      },
+      {
+        "id": "D-infra-planner",
+        "hazard": "cold snaps",
+        "title": "Harden infrastructure for swings",
+        "why": "Continental zones face both heat and sharp cold extremes.",
+        "action": "Insulate critical infrastructure, plan for grid peaks, and update building codes for both extremes; helps reduce outages.",
+        "audience": "planner",
+        "horizon": "long term",
+        "earlyWarning": "More frequent record-high and record-low days.",
+        "evidenceNote": "IPCC AR6 WGII infrastructure resilience.",
+        "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/"
+      }
+    ],
+    "E": [
+      {
+        "id": "E-permafrost-household",
+        "hazard": "permafrost thaw",
+        "title": "Monitor ground stability",
+        "why": "Warming polar/tundra ground destabilises foundations and roads.",
+        "action": "Inspect foundations for tilting, report road slumps, and follow community relocation guidance; helps reduce structural risk.",
+        "audience": "household",
+        "horizon": "this season",
+        "earlyWarning": "Cracking walls, uneven ground, sinking posts.",
+        "evidenceNote": "IPCC AR6 WGII polar regions.",
+        "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/"
+      },
+      {
+        "id": "E-infra-planner",
+        "hazard": "ice loss",
+        "title": "Adapt infrastructure to thawing ground",
+        "why": "Thaw undermines roads, pipelines and buildings on permafrost.",
+        "action": "Use thermosyphons/elevated foundations, re-survey routes, and plan managed retreat where needed; helps protect lifelines.",
+        "audience": "planner",
+        "horizon": "long term",
+        "earlyWarning": "Accelerating ground subsidence and coastal erosion.",
+        "evidenceNote": "IPCC AR6 WGII polar adaptation.",
+        "sourceUrl": "https://www.ipcc.ch/report/ar6/wg2/"
+      }
+    ]
+  }
+}

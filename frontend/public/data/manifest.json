@@ -1,0 +1,90 @@
+{
+  "dataSource": "PLACEHOLDER-SYNTHETIC",
+  "note": "K\u00f6ppen classes computed with the real Peel/McMahon algorithm from a transparent synthetic climatology. Replace sources with Beck et al. (2023) GeoTIFFs for authentic zones. UI must show a SAMPLE badge while this source is active.",
+  "grid": {
+    "width": 720,
+    "height": 360,
+    "res": 0.5,
+    "bounds": [
+      -180,
+      -90,
+      180,
+      90
+    ],
+    "rowOrder": "north-to-south",
+    "oceanId": 0,
+    "dtype": "uint8"
+  },
+  "scenarios": [
+    "historical",
+    "ssp126",
+    "ssp245",
+    "ssp585"
+  ],
+  "baselineId": "historical_1991_2020",
+  "periods": [
+    {
+      "id": "historical_1991_2020",
+      "scenario": "historical",
+      "label": "1991\u20132020",
+      "startYear": 1991,
+      "endYear": 2020,
+      "file": "koppen_historical_1991_2020.bin",
+      "kind": "historical"
+    },
+    {
+      "id": "ssp126_2041_2070",
+      "scenario": "ssp126",
+      "label": "2041\u20132070",
+      "startYear": 2041,
+      "endYear": 2070,
+      "file": "koppen_ssp126_2041_2070.bin",
+      "kind": "projection"
+    },
+    {
+      "id": "ssp126_2071_2099",
+      "scenario": "ssp126",
+      "label": "2071\u20132099",
+      "startYear": 2071,
+      "endYear": 2099,
+      "file": "koppen_ssp126_2071_2099.bin",
+      "kind": "projection"
+    },
+    {
+      "id": "ssp245_2041_2070",
+      "scenario": "ssp245",
+      "label": "2041\u20132070",
+      "startYear": 2041,
+      "endYear": 2070,
+      "file": "koppen_ssp245_2041_2070.bin",
+      "kind": "projection"
+    },
+    {
+      "id": "ssp245_2071_2099",
+      "scenario": "ssp245",
+      "label": "2071\u20132099",
+      "startYear": 2071,
+      "endYear": 2099,
+      "file": "koppen_ssp245_2071_2099.bin",
+      "kind": "projection"
+    },
+    {
+      "id": "ssp585_2041_2070",
+      "scenario": "ssp585",
+      "label": "2041\u20132070",
+      "startYear": 2041,
+      "endYear": 2070,
+      "file": "koppen_ssp585_2041_2070.bin",
+      "kind": "projection"
+    },
+    {
+      "id": "ssp585_2071_2099",
+      "scenario": "ssp585",
+      "label": "2071\u20132099",
+      "startYear": 2071,
+      "endYear": 2099,
+      "file": "koppen_ssp585_2071_2099.bin",
+      "kind": "projection"
+    }
+  ]
+}

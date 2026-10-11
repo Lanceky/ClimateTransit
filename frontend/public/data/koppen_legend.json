@@ -1,0 +1,349 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "code": "Af",
+      "name": "Tropical rainforest",
+      "color": "#0b61ff",
+      "group": "A",
+      "hazards": [
+        "flooding",
+        "humidity heat",
+        "landslides"
+      ]
+    },
+    {
+      "id": 2,
+      "code": "Am",
+      "name": "Tropical monsoon",
+      "color": "#1b7cff",
+      "group": "A",
+      "hazards": [
+        "monsoon flooding",
+        "humidity heat"
+      ]
+    },
+    {
+      "id": 3,
+      "code": "Aw",
+      "name": "Tropical savanna",
+      "color": "#49a0ff",
+      "group": "A",
+      "hazards": [
+        "drought",
+        "wildfire",
+        "heat"
+      ]
+    },
+    {
+      "id": 4,
+      "code": "BWh",
+      "name": "Hot desert",
+      "color": "#ff2e2e",
+      "group": "B",
+      "hazards": [
+        "extreme heat",
+        "water scarcity",
+        "dust"
+      ]
+    },
+    {
+      "id": 5,
+      "code": "BWk",
+      "name": "Cold desert",
+      "color": "#ff7a5a",
+      "group": "B",
+      "hazards": [
+        "water scarcity",
+        "temperature swings",
+        "dust"
+      ]
+    },
+    {
+      "id": 6,
+      "code": "BSh",
+      "name": "Hot steppe",
+      "color": "#ffb24d",
+      "group": "B",
+      "hazards": [
+        "drought",
+        "heat",
+        "dust"
+      ]
+    },
+    {
+      "id": 7,
+      "code": "BSk",
+      "name": "Cold steppe",
+      "color": "#ffd27a",
+      "group": "B",
+      "hazards": [
+        "drought",
+        "cold snaps",
+        "dust"
+      ]
+    },
+    {
+      "id": 8,
+      "code": "Csa",
+      "name": "Hot-summer Mediterranean",
+      "color": "#ffe400",
+      "group": "C",
+      "hazards": [
+        "wildfire",
+        "drought",
+        "heatwave"
+      ]
+    },
+    {
+      "id": 9,
+      "code": "Csb",
+      "name": "Warm-summer Mediterranean",
+      "color": "#f2d300",
+      "group": "C",
+      "hazards": [
+        "wildfire",
+        "drought"
+      ]
+    },
+    {
+      "id": 10,
+      "code": "Csc",
+      "name": "Cold-summer Mediterranean",
+      "color": "#dcc000",
+      "group": "C",
+      "hazards": [
+        "drought",
+        "cold snaps"
+      ]
+    },
+    {
+      "id": 11,
+      "code": "Cwa",
+      "name": "Humid subtropical (dry winter)",
+      "color": "#9bff57",
+      "group": "C",
+      "hazards": [
+        "monsoon flooding",
+        "heat"
+      ]
+    },
+    {
+      "id": 12,
+      "code": "Cwb",
+      "name": "Subtropical highland (dry winter)",
+      "color": "#6fe03a",
+      "group": "C",
+      "hazards": [
+        "drought",
+        "frost"
+      ]
+    },
+    {
+      "id": 13,
+      "code": "Cwc",
+      "name": "Cold subtropical highland",
+      "color": "#4fb52a",
+      "group": "C",
+      "hazards": [
+        "frost",
+        "drought"
+      ]
+    },
+    {
+      "id": 14,
+      "code": "Cfa",
+      "name": "Humid subtropical",
+      "color": "#45e2e6",
+      "group": "C",
+      "hazards": [
+        "flooding",
+        "humid heat",
+        "storms"
+      ]
+    },
+    {
+      "id": 15,
+      "code": "Cfb",
+      "name": "Oceanic",
+      "color": "#2bbfd0",
+      "group": "C",
+      "hazards": [
+        "flooding",
+        "storms",
+        "heat (rising)"
+      ]
+    },
+    {
+      "id": 16,
+      "code": "Cfc",
+      "name": "Subpolar oceanic",
+      "color": "#1f93a6",
+      "group": "C",
+      "hazards": [
+        "storms",
+        "cold"
+      ]
+    },
+    {
+      "id": 17,
+      "code": "Dsa",
+      "name": "Hot-summer continental (dry summer)",
+      "color": "#ff6fe0",
+      "group": "D",
+      "hazards": [
+        "wildfire",
+        "drought",
+        "heat"
+      ]
+    },
+    {
+      "id": 18,
+      "code": "Dsb",
+      "name": "Warm-summer continental (dry summer)",
+      "color": "#e04fc0",
+      "group": "D",
+      "hazards": [
+        "wildfire",
+        "drought"
+      ]
+    },
+    {
+      "id": 19,
+      "code": "Dsc",
+      "name": "Subarctic (dry summer)",
+      "color": "#b53aa0",
+      "group": "D",
+      "hazards": [
+        "cold",
+        "drought"
+      ]
+    },
+    {
+      "id": 20,
+      "code": "Dsd",
+      "name": "Extremely cold (dry summer)",
+      "color": "#8a2a7a",
+      "group": "D",
+      "hazards": [
+        "extreme cold",
+        "drought"
+      ]
+    },
+    {
+      "id": 21,
+      "code": "Dwa",
+      "name": "Hot-summer continental (dry winter)",
+      "color": "#b09bff",
+      "group": "D",
+      "hazards": [
+        "heat",
+        "flooding",
+        "cold snaps"
+      ]
+    },
+    {
+      "id": 22,
+      "code": "Dwb",
+      "name": "Warm-summer continental (dry winter)",
+      "color": "#8f6fe0",
+      "group": "D",
+      "hazards": [
+        "flooding",
+        "cold snaps"
+      ]
+    },
+    {
+      "id": 23,
+      "code": "Dwc",
+      "name": "Subarctic (dry winter)",
+      "color": "#6f4fb5",
+      "group": "D",
+      "hazards": [
+        "extreme cold",
+        "thaw"
+      ]
+    },
+    {
+      "id": 24,
+      "code": "Dwd",
+      "name": "Extremely cold (dry winter)",
+      "color": "#50348a",
+      "group": "D",
+      "hazards": [
+        "extreme cold",
+        "permafrost thaw"
+      ]
+    },
+    {
+      "id": 25,
+      "code": "Dfa",
+      "name": "Hot-summer continental",
+      "color": "#7a9bff",
+      "group": "D",
+      "hazards": [
+        "flooding",
+        "heatwave",
+        "cold snaps"
+      ]
+    },
+    {
+      "id": 26,
+      "code": "Dfb",
+      "name": "Warm-summer continental",
+      "color": "#5a7ae0",
+      "group": "D",
+      "hazards": [
+        "flooding",
+        "cold snaps",
+        "heat (rising)"
+      ]
+    },
+    {
+      "id": 27,
+      "code": "Dfc",
+      "name": "Subarctic",
+      "color": "#3a5ab5",
+      "group": "D",
+      "hazards": [
+        "extreme cold",
+        "wildfire",
+        "permafrost thaw"
+      ]
+    },
+    {
+      "id": 28,
+      "code": "Dfd",
+      "name": "Extremely cold subarctic",
+      "color": "#2a3f8a",
+      "group": "D",
+      "hazards": [
+        "extreme cold",
+        "permafrost thaw"
+      ]
+    },
+    {
+      "id": 29,
+      "code": "ET",
+      "name": "Tundra",
+      "color": "#b8c6d6",
+      "group": "E",
+      "hazards": [
+        "permafrost thaw",
+        "extreme cold"
+      ]
+    },
+    {
+      "id": 30,
+      "code": "EF",
+      "name": "Ice cap",
+      "color": "#eef3fb",
+      "group": "E",
+      "hazards": [
+        "extreme cold",
+        "ice loss"
+      ]
+    }
+  ],
+  "note": "K\u00f6ppen\u2013Geiger classes. Colors tuned for a vibrant dark theme while keeping classes distinct."
+}

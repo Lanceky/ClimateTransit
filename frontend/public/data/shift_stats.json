@@ -1,0 +1,5612 @@
+{
+  "baselineId": "historical_1991_2020",
+  "baselineLabel": "1991\u20132020",
+  "method": "Area-weighted (cos latitude) share of land cells whose K\u00f6ppen class differs from the baseline period. Computed from the project's own grids.",
+  "dataSource": "PLACEHOLDER-SYNTHETIC",
+  "periods": {
+    "ssp126_2041_2070": {
+      "scenario": "ssp126",
+      "label": "2041\u20132070",
+      "pctLandChangingZone": 24.5,
+      "topTransitions": [
+        {
+          "from": "BSh",
+          "to": "BWh",
+          "pctOfChanged": 28.2
+        },
+        {
+          "from": "BSk",
+          "to": "BSh",
+          "pctOfChanged": 10.3
+        },
+        {
+          "from": "Dfb",
+          "to": "Dfa",
+          "pctOfChanged": 8.0
+        },
+        {
+          "from": "Cfa",
+          "to": "Aw",
+          "pctOfChanged": 8.0
+        },
+        {
+          "from": "Csb",
+          "to": "Csa",
+          "pctOfChanged": 7.3
+        },
+        {
+          "from": "Dfc",
+          "to": "Dfb",
+          "pctOfChanged": 6.7
+        },
+        {
+          "from": "EF",
+          "to": "ET",
+          "pctOfChanged": 5.3
+        },
+        {
+          "from": "ET",
+          "to": "Dfc",
+          "pctOfChanged": 5.2
+        }
+      ],
+      "countryRanking": [
+        {
+          "country": "Palestine",
+          "pct": 100.0,
+          "landCells": 5
+        },
+        {
+          "country": "Bhutan",
+          "pct": 100.0,
+          "landCells": 18
+        },
+        {
+          "country": "New Caledonia",
+          "pct": 100.0,
+          "landCells": 15
+        },
+        {
+          "country": "Montenegro",
+          "pct": 100.0,
+          "landCells": 11
+        },
+        {
+          "country": "Bangladesh",
+          "pct": 98.5,
+          "landCells": 69
+        },
+        {
+          "country": "Albania",
+          "pct": 93.3,
+          "landCells": 15
+        },
+        {
+          "country": "Haiti",
+          "pct": 92.9,
+          "landCells": 14
+        },
+        {
+          "country": "Kosovo",
+          "pct": 90.9,
+          "landCells": 11
+        },
+        {
+          "country": "Slovakia",
+          "pct": 90.7,
+          "landCells": 32
+        },
+        {
+          "country": "Jamaica",
+          "pct": 90.0,
+          "landCells": 10
+        },
+        {
+          "country": "W. Sahara",
+          "pct": 89.6,
+          "landCells": 19
+        },
+        {
+          "country": "Fiji",
+          "pct": 88.9,
+          "landCells": 18
+        },
+        {
+          "country": "Denmark",
+          "pct": 84.3,
+          "landCells": 37
+        },
+        {
+          "country": "Latvia",
+          "pct": 84.0,
+          "landCells": 43
+        },
+        {
+          "country": "Djibouti",
+          "pct": 83.3,
+          "landCells": 12
+        },
+        {
+          "country": "Bulgaria",
+          "pct": 83.1,
+          "landCells": 47
+        },
+        {
+          "country": "Cuba",
+          "pct": 82.0,
+          "landCells": 66
+        },
+        {
+          "country": "Puerto Rico",
+          "pct": 81.8,
+          "landCells": 11
+        },
+        {
+          "country": "Vanuatu",
+          "pct": 77.7,
+          "landCells": 9
+        },
+        {
+          "country": "Hungary",
+          "pct": 75.1,
+          "landCells": 36
+        },
+        {
+          "country": "Israel",
+          "pct": 74.7,
+          "landCells": 4
+        },
+        {
+          "country": "Serbia",
+          "pct": 74.1,
+          "landCells": 43
+        },
+        {
+          "country": "Georgia",
+          "pct": 71.4,
+          "landCells": 42
+        },
+        {
+          "country": "Honduras",
+          "pct": 67.4,
+          "landCells": 46
+        },
+        {
+          "country": "Nicaragua",
+          "pct": 63.3,
+          "landCells": 49
+        },
+        {
+          "country": "Slovenia",
+          "pct": 60.8,
+          "landCells": 18
+        },
+        {
+          "country": "El Salvador",
+          "pct": 60.0,
+          "landCells": 10
+        },
+        {
+          "country": "Vietnam",
+          "pct": 58.7,
+          "landCells": 129
+        },
+        {
+          "country": "Romania",
+          "pct": 57.2,
+          "landCells": 112
+        },
+        {
+          "country": "North Korea",
+          "pct": 56.7,
+          "landCells": 56
+        },
+        {
+          "country": "Italy",
+          "pct": 56.3,
+          "landCells": 187
+        },
+        {
+          "country": "Jordan",
+          "pct": 54.8,
+          "landCells": 29
+        },
+        {
+          "country": "Oman",
+          "pct": 54.1,
+          "landCells": 118
+        },
+        {
+          "country": "Dominican Rep.",
+          "pct": 53.6,
+          "landCells": 28
+        },
+        {
+          "country": "Mexico",
+          "pct": 53.0,
+          "landCells": 771
+        },
+        {
+          "country": "Guinea-Bissau",
+          "pct": 52.4,
+          "landCells": 21
+        },
+        {
+          "country": "South Africa",
+          "pct": 51.6,
+          "landCells": 432
+        },
+        {
+          "country": "Saudi Arabia",
+          "pct": 51.2,
+          "landCells": 725
+        },
+        {
+          "country": "Bosnia and Herz.",
+          "pct": 49.9,
+          "landCells": 28
+        },
+        {
+          "country": "Uzbekistan",
+          "pct": 48.8,
+          "landCells": 199
+        },
+        {
+          "country": "Namibia",
+          "pct": 48.8,
+          "landCells": 304
+        },
+        {
+          "country": "Portugal",
+          "pct": 47.8,
+          "landCells": 37
+        },
+        {
+          "country": "Uruguay",
+          "pct": 47.5,
+          "landCells": 68
+        },
+        {
+          "country": "India",
+          "pct": 47.2,
+          "landCells": 1091
+        },
+        {
+          "country": "Pakistan",
+          "pct": 47.1,
+          "landCells": 330
+        },
+        {
+          "country": "Madagascar",
+          "pct": 46.8,
+          "landCells": 234
+        },
+        {
+          "country": "Croatia",
+          "pct": 46.5,
+          "landCells": 17
+        },
+        {
+          "country": "Switzerland",
+          "pct": 46.5,
+          "landCells": 26
+        },
+        {
+          "country": "Zimbabwe",
+          "pct": 44.1,
+          "landCells": 116
+        },
+        {
+          "country": "Lithuania",
+          "pct": 43.0,
+          "landCells": 39
+        },
+        {
+          "country": "Azerbaijan",
+          "pct": 42.0,
+          "landCells": 45
+        },
+        {
+          "country": "China",
+          "pct": 41.9,
+          "landCells": 3983
+        },
+        {
+          "country": "Gambia",
+          "pct": 41.7,
+          "landCells": 12
+        },
+        {
+          "country": "North Macedonia",
+          "pct": 41.6,
+          "landCells": 12
+        },
+        {
+          "country": "France",
+          "pct": 40.0,
+          "landCells": 299
+        },
+        {
+          "country": "Australia",
+          "pct": 38.6,
+          "landCells": 2920
+        },
+        {
+          "country": "Spain",
+          "pct": 38.4,
+          "landCells": 245
+        },
+        {
+          "country": "Argentina",
+          "pct": 37.6,
+          "landCells": 1088
+        },
+        {
+          "country": "Iraq",
+          "pct": 37.0,
+          "landCells": 150
+        },
+        {
+          "country": "Egypt",
+          "pct": 37.0,
+          "landCells": 389
+        },
+        {
+          "country": "Chile",
+          "pct": 36.8,
+          "landCells": 426
+        },
+        {
+          "country": "Morocco",
+          "pct": 36.7,
+          "landCells": 255
+        },
+        {
+          "country": "Libya",
+          "pct": 36.3,
+          "landCells": 655
+        },
+        {
+          "country": "Nepal",
+          "pct": 35.9,
+          "landCells": 59
+        },
+        {
+          "country": "New Zealand",
+          "pct": 35.4,
+          "landCells": 156
+        },
+        {
+          "country": "Mauritania",
+          "pct": 35.2,
+          "landCells": 399
+        },
+        {
+          "country": "Cambodia",
+          "pct": 34.7,
+          "landCells": 52
+        },
+        {
+          "country": "Greece",
+          "pct": 34.7,
+          "landCells": 76
+        },
+        {
+          "country": "Myanmar",
+          "pct": 34.5,
+          "landCells": 239
+        },
+        {
+          "country": "Ukraine",
+          "pct": 33.6,
+          "landCells": 294
+        },
+        {
+          "country": "United Arab Emirates",
+          "pct": 33.5,
+          "landCells": 27
+        },
+        {
+          "country": "United Kingdom",
+          "pct": 32.1,
+          "landCells": 174
+        },
+        {
+          "country": "Moldova",
+          "pct": 31.8,
+          "landCells": 19
+        },
+        {
+          "country": "Mozambique",
+          "pct": 31.7,
+          "landCells": 321
+        },
+        {
+          "country": "Turkey",
+          "pct": 30.4,
+          "landCells": 369
+        },
+        {
+          "country": "Afghanistan",
+          "pct": 29.7,
+          "landCells": 248
+        },
+        {
+          "country": "Algeria",
+          "pct": 28.0,
+          "landCells": 867
+        },
+        {
+          "country": "Japan",
+          "pct": 28.0,
+          "landCells": 215
+        },
+        {
+          "country": "Belize",
+          "pct": 26.7,
+          "landCells": 15
+        },
+        {
+          "country": "Yemen",
+          "pct": 26.4,
+          "landCells": 160
+        },
+        {
+          "country": "Guatemala",
+          "pct": 25.7,
+          "landCells": 47
+        },
+        {
+          "country": "Sudan",
+          "pct": 25.5,
+          "landCells": 566
+        },
+        {
+          "country": "Bolivia",
+          "pct": 25.4,
+          "landCells": 383
+        },
+        {
+          "country": "Fr. S. Antarctic Lands",
+          "pct": 25.3,
+          "landCells": 12
+        },
+        {
+          "country": "Russia",
+          "pct": 24.7,
+          "landCells": 12027
+        },
+        {
+          "country": "Canada",
+          "pct": 24.2,
+          "landCells": 7353
+        },
+        {
+          "country": "Tajikistan",
+          "pct": 23.8,
+          "landCells": 68
+        },
+        {
+          "country": "Somaliland",
+          "pct": 23.4,
+          "landCells": 64
+        },
+        {
+          "country": "Sweden",
+          "pct": 22.5,
+          "landCells": 345
+        },
+        {
+          "country": "Laos",
+          "pct": 22.2,
+          "landCells": 76
+        },
+        {
+          "country": "Philippines",
+          "pct": 22.2,
+          "landCells": 165
+        },
+        {
+          "country": "Thailand",
+          "pct": 22.1,
+          "landCells": 167
+        },
+        {
+          "country": "Chad",
+          "pct": 21.7,
+          "landCells": 408
+        },
+        {
+          "country": "Taiwan",
+          "pct": 21.2,
+          "landCells": 19
+        },
+        {
+          "country": "United States of America",
+          "pct": 21.1,
+          "landCells": 4705
+        },
+        {
+          "country": "Zambia",
+          "pct": 20.3,
+          "landCells": 258
+        },
+        {
+          "country": "Costa Rica",
+          "pct": 20.0,
+          "landCells": 25
+        },
+        {
+          "country": "Eritrea",
+          "pct": 19.4,
+          "landCells": 36
+        },
+        {
+          "country": "Finland",
+          "pct": 19.1,
+          "landCells": 276
+        },
+        {
+          "country": "Czechia",
+          "pct": 18.8,
+          "landCells": 54
+        },
+        {
+          "country": "Senegal",
+          "pct": 18.0,
+          "landCells": 50
+        },
+        {
+          "country": "Iran",
+          "pct": 17.6,
+          "landCells": 647
+        },
+        {
+          "country": "Poland",
+          "pct": 17.2,
+          "landCells": 166
+        },
+        {
+          "country": "Tunisia",
+          "pct": 16.8,
+          "landCells": 55
+        },
+        {
+          "country": "Brazil",
+          "pct": 15.2,
+          "landCells": 2822
+        },
+        {
+          "country": "Niger",
+          "pct": 14.2,
+          "landCells": 399
+        },
+        {
+          "country": "Greenland",
+          "pct": 14.0,
+          "landCells": 2859
+        },
+        {
+          "country": "Mali",
+          "pct": 13.5,
+          "landCells": 372
+        },
+        {
+          "country": "Turkmenistan",
+          "pct": 13.4,
+          "landCells": 204
+        },
+        {
+          "country": "Angola",
+          "pct": 12.8,
+          "landCells": 463
+        },
+        {
+          "country": "Norway",
+          "pct": 12.4,
+          "landCells": 390
+        },
+        {
+          "country": "Austria",
+          "pct": 12.2,
+          "landCells": 25
+        },
+        {
+          "country": "Ireland",
+          "pct": 11.7,
+          "landCells": 33
+        },
+        {
+          "country": "Kazakhstan",
+          "pct": 11.0,
+          "landCells": 1233
+        },
+        {
+          "country": "Guinea",
+          "pct": 11.0,
+          "landCells": 82
+        },
+        {
+          "country": "Peru",
+          "pct": 10.4,
+          "landCells": 448
+        },
+        {
+          "country": "Antarctica",
+          "pct": 10.2,
+          "landCells": 24649
+        },
+        {
+          "country": "Paraguay",
+          "pct": 10.0,
+          "landCells": 165
+        },
+        {
+          "country": "Estonia",
+          "pct": 8.0,
+          "landCells": 39
+        },
+        {
+          "country": "Syria",
+          "pct": 7.9,
+          "landCells": 78
+        },
+        {
+          "country": "Venezuela",
+          "pct": 7.8,
+          "landCells": 332
+        },
+        {
+          "country": "Kyrgyzstan",
+          "pct": 7.4,
+          "landCells": 93
+        },
+        {
+          "country": "Germany",
+          "pct": 7.3,
+          "landCells": 183
+        },
+        {
+          "country": "S. Sudan",
+          "pct": 6.7,
+          "landCells": 238
+        },
+        {
+          "country": "Somalia",
+          "pct": 6.2,
+          "landCells": 174
+        },
+        {
+          "country": "Central African Rep.",
+          "pct": 5.9,
+          "landCells": 220
+        },
+        {
+          "country": "Botswana",
+          "pct": 4.9,
+          "landCells": 218
+        },
+        {
+          "country": "Ethiopia",
+          "pct": 4.9,
+          "landCells": 381
+        },
+        {
+          "country": "Solomon Is.",
+          "pct": 4.2,
+          "landCells": 24
+        },
+        {
+          "country": "Mongolia",
+          "pct": 2.9,
+          "landCells": 716
+        },
+        {
+          "country": "Belarus",
+          "pct": 2.9,
+          "landCells": 102
+        },
+        {
+          "country": "Colombia",
+          "pct": 2.3,
+          "landCells": 385
+        },
+        {
+          "country": "South Korea",
+          "pct": 1.9,
+          "landCells": 50
+        },
+        {
+          "country": "Tanzania",
+          "pct": 1.7,
+          "landCells": 285
+        },
+        {
+          "country": "Papua New Guinea",
+          "pct": 0.6,
+          "landCells": 179
+        },
+        {
+          "country": "Indonesia",
+          "pct": 0.0,
+          "landCells": 758
+        },
+        {
+          "country": "Dem. Rep. Congo",
+          "pct": 0.0,
+          "landCells": 695
+        },
+        {
+          "country": "Kenya",
+          "pct": 0.0,
+          "landCells": 189
+        },
+        {
+          "country": "Bahamas",
+          "pct": 0.0,
+          "landCells": 16
+        },
+        {
+          "country": "Falkland Is.",
+          "pct": 0.0,
+          "landCells": 12
+        },
+        {
+          "country": "Timor-Leste",
+          "pct": 0.0,
+          "landCells": 11
+        },
+        {
+          "country": "Lesotho",
+          "pct": 0.0,
+          "landCells": 18
+        },
+        {
+          "country": "Panama",
+          "pct": 0.0,
+          "landCells": 39
+        },
+        {
+          "country": "Guyana",
+          "pct": 0.0,
+          "landCells": 77
+        },
+        {
+          "country": "Suriname",
+          "pct": 0.0,
+          "landCells": 56
+        },
+        {
+          "country": "Ecuador",
+          "pct": 0.0,
+          "landCells": 97
+        },
+        {
+          "country": "Benin",
+          "pct": 0.0,
+          "landCells": 26
+        },
+        {
+          "country": "Nigeria",
+          "pct": 0.0,
+          "landCells": 310
+        },
+        {
+          "country": "Cameroon",
+          "pct": 0.0,
+          "landCells": 155
+        },
+        {
+          "country": "Togo",
+          "pct": 0.0,
+          "landCells": 23
+        },
+        {
+          "country": "Ghana",
+          "pct": 0.0,
+          "landCells": 78
+        },
+        {
+          "country": "C\u00f4te d'Ivoire",
+          "pct": 0.0,
+          "landCells": 110
+        },
+        {
+          "country": "Liberia",
+          "pct": 0.0,
+          "landCells": 40
+        },
+        {
+          "country": "Sierra Leone",
+          "pct": 0.0,
+          "landCells": 36
+        },
+        {
+          "country": "Burkina Faso",
+          "pct": 0.0,
+          "landCells": 110
+        },
+        {
+          "country": "Congo",
+          "pct": 0.0,
+          "landCells": 118
+        },
+        {
+          "country": "Gabon",
+          "pct": 0.0,
+          "landCells": 96
+        },
+        {
+          "country": "Eq. Guinea",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Malawi",
+          "pct": 0.0,
+          "landCells": 38
+        },
+        {
+          "country": "eSwatini",
+          "pct": 0.0,
+          "landCells": 11
+        },
+        {
+          "country": "Burundi",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Lebanon",
+          "pct": 0.0,
+          "landCells": 5
+        },
+        {
+          "country": "Qatar",
+          "pct": 0.0,
+          "landCells": 5
+        },
+        {
+          "country": "Kuwait",
+          "pct": 0.0,
+          "landCells": 3
+        },
+        {
+          "country": "Armenia",
+          "pct": 0.0,
+          "landCells": 4
+        },
+        {
+          "country": "Luxembourg",
+          "pct": 0.0,
+          "landCells": 3
+        },
+        {
+          "country": "Belgium",
+          "pct": 0.0,
+          "landCells": 18
+        },
+        {
+          "country": "Netherlands",
+          "pct": 0.0,
+          "landCells": 33
+        },
+        {
+          "country": "Sri Lanka",
+          "pct": 0.0,
+          "landCells": 31
+        },
+        {
+          "country": "Iceland",
+          "pct": 0.0,
+          "landCells": 96
+        },
+        {
+          "country": "Malaysia",
+          "pct": 0.0,
+          "landCells": 146
+        },
+        {
+          "country": "Brunei",
+          "pct": 0.0,
+          "landCells": 6
+        },
+        {
+          "country": "N. Cyprus",
+          "pct": 0.0,
+          "landCells": 2
+        },
+        {
+          "country": "Cyprus",
+          "pct": 0.0,
+          "landCells": 9
+        },
+        {
+          "country": "Uganda",
+          "pct": 0.0,
+          "landCells": 91
+        },
+        {
+          "country": "Rwanda",
+          "pct": 0.0,
+          "landCells": 12
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "pct": 0.0,
+          "landCells": 7
+        }
+      ]
+    },
+    "ssp126_2071_2099": {
+      "scenario": "ssp126",
+      "label": "2071\u20132099",
+      "pctLandChangingZone": 29.1,
+      "topTransitions": [
+        {
+          "from": "BSh",
+          "to": "BWh",
+          "pctOfChanged": 28.5
+        },
+        {
+          "from": "BSk",
+          "to": "BSh",
+          "pctOfChanged": 8.7
+        },
+        {
+          "from": "Dfb",
+          "to": "Dfa",
+          "pctOfChanged": 8.7
+        },
+        {
+          "from": "Cfa",
+          "to": "Aw",
+          "pctOfChanged": 8.0
+        },
+        {
+          "from": "Csb",
+          "to": "Csa",
+          "pctOfChanged": 7.3
+        },
+        {
+          "from": "Dfc",
+          "to": "Dfb",
+          "pctOfChanged": 6.7
+        },
+        {
+          "from": "EF",
+          "to": "ET",
+          "pctOfChanged": 5.6
+        },
+        {
+          "from": "ET",
+          "to": "Dfc",
+          "pctOfChanged": 5.5
+        }
+      ],
+      "countryRanking": [
+        {
+          "country": "W. Sahara",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Cuba",
+          "pct": 100.0,
+          "landCells": 66
+        },
+        {
+          "country": "Palestine",
+          "pct": 100.0,
+          "landCells": 5
+        },
+        {
+          "country": "Bangladesh",
+          "pct": 100.0,
+          "landCells": 69
+        },
+        {
+          "country": "Bhutan",
+          "pct": 100.0,
+          "landCells": 18
+        },
+        {
+          "country": "Switzerland",
+          "pct": 100.0,
+          "landCells": 26
+        },
+        {
+          "country": "New Caledonia",
+          "pct": 100.0,
+          "landCells": 15
+        },
+        {
+          "country": "Montenegro",
+          "pct": 100.0,
+          "landCells": 11
+        },
+        {
+          "country": "Latvia",
+          "pct": 97.7,
+          "landCells": 43
+        },
+        {
+          "country": "Denmark",
+          "pct": 97.4,
+          "landCells": 37
+        },
+        {
+          "country": "Slovakia",
+          "pct": 93.8,
+          "landCells": 32
+        },
+        {
+          "country": "Bulgaria",
+          "pct": 93.6,
+          "landCells": 47
+        },
+        {
+          "country": "Albania",
+          "pct": 93.3,
+          "landCells": 15
+        },
+        {
+          "country": "Haiti",
+          "pct": 92.9,
+          "landCells": 14
+        },
+        {
+          "country": "Kosovo",
+          "pct": 90.9,
+          "landCells": 11
+        },
+        {
+          "country": "Jamaica",
+          "pct": 90.0,
+          "landCells": 10
+        },
+        {
+          "country": "Fiji",
+          "pct": 88.9,
+          "landCells": 18
+        },
+        {
+          "country": "Bosnia and Herz.",
+          "pct": 85.8,
+          "landCells": 28
+        },
+        {
+          "country": "Georgia",
+          "pct": 85.5,
+          "landCells": 42
+        },
+        {
+          "country": "Taiwan",
+          "pct": 84.4,
+          "landCells": 19
+        },
+        {
+          "country": "Djibouti",
+          "pct": 83.3,
+          "landCells": 12
+        },
+        {
+          "country": "Puerto Rico",
+          "pct": 81.8,
+          "landCells": 11
+        },
+        {
+          "country": "United Arab Emirates",
+          "pct": 81.7,
+          "landCells": 27
+        },
+        {
+          "country": "Hungary",
+          "pct": 77.9,
+          "landCells": 36
+        },
+        {
+          "country": "Vanuatu",
+          "pct": 77.7,
+          "landCells": 9
+        },
+        {
+          "country": "Serbia",
+          "pct": 76.4,
+          "landCells": 43
+        },
+        {
+          "country": "Austria",
+          "pct": 76.2,
+          "landCells": 25
+        },
+        {
+          "country": "Nicaragua",
+          "pct": 75.5,
+          "landCells": 49
+        },
+        {
+          "country": "Israel",
+          "pct": 74.7,
+          "landCells": 4
+        },
+        {
+          "country": "Honduras",
+          "pct": 74.0,
+          "landCells": 46
+        },
+        {
+          "country": "Pakistan",
+          "pct": 68.3,
+          "landCells": 330
+        },
+        {
+          "country": "Moldova",
+          "pct": 68.3,
+          "landCells": 19
+        },
+        {
+          "country": "Guinea-Bissau",
+          "pct": 66.7,
+          "landCells": 21
+        },
+        {
+          "country": "Italy",
+          "pct": 66.6,
+          "landCells": 187
+        },
+        {
+          "country": "Slovenia",
+          "pct": 66.3,
+          "landCells": 18
+        },
+        {
+          "country": "France",
+          "pct": 64.8,
+          "landCells": 299
+        },
+        {
+          "country": "Oman",
+          "pct": 64.0,
+          "landCells": 118
+        },
+        {
+          "country": "Romania",
+          "pct": 62.6,
+          "landCells": 112
+        },
+        {
+          "country": "Mexico",
+          "pct": 62.5,
+          "landCells": 771
+        },
+        {
+          "country": "Vietnam",
+          "pct": 61.1,
+          "landCells": 129
+        },
+        {
+          "country": "Namibia",
+          "pct": 60.5,
+          "landCells": 304
+        },
+        {
+          "country": "Saudi Arabia",
+          "pct": 60.4,
+          "landCells": 725
+        },
+        {
+          "country": "El Salvador",
+          "pct": 60.0,
+          "landCells": 10
+        },
+        {
+          "country": "South Africa",
+          "pct": 59.0,
+          "landCells": 432
+        },
+        {
+          "country": "Croatia",
+          "pct": 58.6,
+          "landCells": 17
+        },
+        {
+          "country": "Gambia",
+          "pct": 58.3,
+          "landCells": 12
+        },
+        {
+          "country": "Uzbekistan",
+          "pct": 56.8,
+          "landCells": 199
+        },
+        {
+          "country": "North Korea",
+          "pct": 56.7,
+          "landCells": 56
+        },
+        {
+          "country": "Jordan",
+          "pct": 54.8,
+          "landCells": 29
+        },
+        {
+          "country": "Madagascar",
+          "pct": 54.7,
+          "landCells": 234
+        },
+        {
+          "country": "Cambodia",
+          "pct": 53.9,
+          "landCells": 52
+        },
+        {
+          "country": "Dominican Rep.",
+          "pct": 53.6,
+          "landCells": 28
+        },
+        {
+          "country": "Zimbabwe",
+          "pct": 53.6,
+          "landCells": 116
+        },
+        {
+          "country": "Fr. S. Antarctic Lands",
+          "pct": 50.3,
+          "landCells": 12
+        },
+        {
+          "country": "India",
+          "pct": 49.2,
+          "landCells": 1091
+        },
+        {
+          "country": "Egypt",
+          "pct": 48.0,
+          "landCells": 389
+        },
+        {
+          "country": "Portugal",
+          "pct": 47.8,
+          "landCells": 37
+        },
+        {
+          "country": "Uruguay",
+          "pct": 47.5,
+          "landCells": 68
+        },
+        {
+          "country": "Chile",
+          "pct": 46.5,
+          "landCells": 426
+        },
+        {
+          "country": "China",
+          "pct": 46.4,
+          "landCells": 3983
+        },
+        {
+          "country": "Morocco",
+          "pct": 46.1,
+          "landCells": 255
+        },
+        {
+          "country": "eSwatini",
+          "pct": 45.6,
+          "landCells": 11
+        },
+        {
+          "country": "Ukraine",
+          "pct": 45.4,
+          "landCells": 294
+        },
+        {
+          "country": "Spain",
+          "pct": 45.0,
+          "landCells": 245
+        },
+        {
+          "country": "Australia",
+          "pct": 43.6,
+          "landCells": 2920
+        },
+        {
+          "country": "Lithuania",
+          "pct": 43.0,
+          "landCells": 39
+        },
+        {
+          "country": "Libya",
+          "pct": 43.0,
+          "landCells": 655
+        },
+        {
+          "country": "New Zealand",
+          "pct": 42.2,
+          "landCells": 156
+        },
+        {
+          "country": "Azerbaijan",
+          "pct": 42.0,
+          "landCells": 45
+        },
+        {
+          "country": "Argentina",
+          "pct": 41.6,
+          "landCells": 1088
+        },
+        {
+          "country": "North Macedonia",
+          "pct": 41.6,
+          "landCells": 12
+        },
+        {
+          "country": "Mauritania",
+          "pct": 38.5,
+          "landCells": 399
+        },
+        {
+          "country": "Mozambique",
+          "pct": 38.4,
+          "landCells": 321
+        },
+        {
+          "country": "Iraq",
+          "pct": 37.7,
+          "landCells": 150
+        },
+        {
+          "country": "Tajikistan",
+          "pct": 37.1,
+          "landCells": 68
+        },
+        {
+          "country": "United Kingdom",
+          "pct": 36.9,
+          "landCells": 174
+        },
+        {
+          "country": "Afghanistan",
+          "pct": 36.8,
+          "landCells": 248
+        },
+        {
+          "country": "Nepal",
+          "pct": 35.9,
+          "landCells": 59
+        },
+        {
+          "country": "Japan",
+          "pct": 35.7,
+          "landCells": 215
+        },
+        {
+          "country": "Greece",
+          "pct": 34.7,
+          "landCells": 76
+        },
+        {
+          "country": "Myanmar",
+          "pct": 34.5,
+          "landCells": 239
+        },
+        {
+          "country": "Czechia",
+          "pct": 33.7,
+          "landCells": 54
+        },
+        {
+          "country": "Luxembourg",
+          "pct": 33.4,
+          "landCells": 3
+        },
+        {
+          "country": "Sweden",
+          "pct": 32.1,
+          "landCells": 345
+        },
+        {
+          "country": "Russia",
+          "pct": 31.3,
+          "landCells": 12027
+        },
+        {
+          "country": "Canada",
+          "pct": 30.5,
+          "landCells": 7353
+        },
+        {
+          "country": "Turkey",
+          "pct": 30.4,
+          "landCells": 369
+        },
+        {
+          "country": "Bolivia",
+          "pct": 30.3,
+          "landCells": 383
+        },
+        {
+          "country": "Chad",
+          "pct": 29.6,
+          "landCells": 408
+        },
+        {
+          "country": "Sudan",
+          "pct": 29.3,
+          "landCells": 566
+        },
+        {
+          "country": "Algeria",
+          "pct": 29.3,
+          "landCells": 867
+        },
+        {
+          "country": "Estonia",
+          "pct": 28.9,
+          "landCells": 39
+        },
+        {
+          "country": "Yemen",
+          "pct": 27.7,
+          "landCells": 160
+        },
+        {
+          "country": "Belize",
+          "pct": 26.7,
+          "landCells": 15
+        },
+        {
+          "country": "Thailand",
+          "pct": 26.3,
+          "landCells": 167
+        },
+        {
+          "country": "Guatemala",
+          "pct": 25.7,
+          "landCells": 47
+        },
+        {
+          "country": "Germany",
+          "pct": 25.2,
+          "landCells": 183
+        },
+        {
+          "country": "United States of America",
+          "pct": 24.1,
+          "landCells": 4705
+        },
+        {
+          "country": "Zambia",
+          "pct": 23.7,
+          "landCells": 258
+        },
+        {
+          "country": "Laos",
+          "pct": 23.6,
+          "landCells": 76
+        },
+        {
+          "country": "Somaliland",
+          "pct": 23.4,
+          "landCells": 64
+        },
+        {
+          "country": "Finland",
+          "pct": 23.3,
+          "landCells": 276
+        },
+        {
+          "country": "Poland",
+          "pct": 22.9,
+          "landCells": 166
+        },
+        {
+          "country": "Philippines",
+          "pct": 22.2,
+          "landCells": 165
+        },
+        {
+          "country": "Senegal",
+          "pct": 22.0,
+          "landCells": 50
+        },
+        {
+          "country": "Iran",
+          "pct": 21.7,
+          "landCells": 647
+        },
+        {
+          "country": "Costa Rica",
+          "pct": 20.0,
+          "landCells": 25
+        },
+        {
+          "country": "Eritrea",
+          "pct": 19.4,
+          "landCells": 36
+        },
+        {
+          "country": "Bahamas",
+          "pct": 19.0,
+          "landCells": 16
+        },
+        {
+          "country": "Brazil",
+          "pct": 18.8,
+          "landCells": 2822
+        },
+        {
+          "country": "Greenland",
+          "pct": 17.9,
+          "landCells": 2859
+        },
+        {
+          "country": "Niger",
+          "pct": 17.2,
+          "landCells": 399
+        },
+        {
+          "country": "Mali",
+          "pct": 17.0,
+          "landCells": 372
+        },
+        {
+          "country": "Tunisia",
+          "pct": 16.8,
+          "landCells": 55
+        },
+        {
+          "country": "Belarus",
+          "pct": 16.0,
+          "landCells": 102
+        },
+        {
+          "country": "Angola",
+          "pct": 15.4,
+          "landCells": 463
+        },
+        {
+          "country": "Guinea",
+          "pct": 14.6,
+          "landCells": 82
+        },
+        {
+          "country": "Kazakhstan",
+          "pct": 14.5,
+          "landCells": 1233
+        },
+        {
+          "country": "Norway",
+          "pct": 14.1,
+          "landCells": 390
+        },
+        {
+          "country": "Turkmenistan",
+          "pct": 13.4,
+          "landCells": 204
+        },
+        {
+          "country": "Peru",
+          "pct": 13.2,
+          "landCells": 448
+        },
+        {
+          "country": "Antarctica",
+          "pct": 12.9,
+          "landCells": 24649
+        },
+        {
+          "country": "Ireland",
+          "pct": 11.7,
+          "landCells": 33
+        },
+        {
+          "country": "Kyrgyzstan",
+          "pct": 10.6,
+          "landCells": 93
+        },
+        {
+          "country": "Paraguay",
+          "pct": 10.0,
+          "landCells": 165
+        },
+        {
+          "country": "S. Sudan",
+          "pct": 9.7,
+          "landCells": 238
+        },
+        {
+          "country": "Central African Rep.",
+          "pct": 9.1,
+          "landCells": 220
+        },
+        {
+          "country": "Syria",
+          "pct": 7.9,
+          "landCells": 78
+        },
+        {
+          "country": "Venezuela",
+          "pct": 7.8,
+          "landCells": 332
+        },
+        {
+          "country": "Ethiopia",
+          "pct": 7.8,
+          "landCells": 381
+        },
+        {
+          "country": "Somalia",
+          "pct": 6.2,
+          "landCells": 174
+        },
+        {
+          "country": "Lesotho",
+          "pct": 5.6,
+          "landCells": 18
+        },
+        {
+          "country": "Botswana",
+          "pct": 5.4,
+          "landCells": 218
+        },
+        {
+          "country": "Solomon Is.",
+          "pct": 4.2,
+          "landCells": 24
+        },
+        {
+          "country": "Mongolia",
+          "pct": 3.5,
+          "landCells": 716
+        },
+        {
+          "country": "Iceland",
+          "pct": 3.3,
+          "landCells": 96
+        },
+        {
+          "country": "Tanzania",
+          "pct": 2.4,
+          "landCells": 285
+        },
+        {
+          "country": "Colombia",
+          "pct": 2.3,
+          "landCells": 385
+        },
+        {
+          "country": "South Korea",
+          "pct": 1.9,
+          "landCells": 50
+        },
+        {
+          "country": "Papua New Guinea",
+          "pct": 0.6,
+          "landCells": 179
+        },
+        {
+          "country": "Indonesia",
+          "pct": 0.0,
+          "landCells": 758
+        },
+        {
+          "country": "Dem. Rep. Congo",
+          "pct": 0.0,
+          "landCells": 695
+        },
+        {
+          "country": "Kenya",
+          "pct": 0.0,
+          "landCells": 189
+        },
+        {
+          "country": "Falkland Is.",
+          "pct": 0.0,
+          "landCells": 12
+        },
+        {
+          "country": "Timor-Leste",
+          "pct": 0.0,
+          "landCells": 11
+        },
+        {
+          "country": "Panama",
+          "pct": 0.0,
+          "landCells": 39
+        },
+        {
+          "country": "Guyana",
+          "pct": 0.0,
+          "landCells": 77
+        },
+        {
+          "country": "Suriname",
+          "pct": 0.0,
+          "landCells": 56
+        },
+        {
+          "country": "Ecuador",
+          "pct": 0.0,
+          "landCells": 97
+        },
+        {
+          "country": "Benin",
+          "pct": 0.0,
+          "landCells": 26
+        },
+        {
+          "country": "Nigeria",
+          "pct": 0.0,
+          "landCells": 310
+        },
+        {
+          "country": "Cameroon",
+          "pct": 0.0,
+          "landCells": 155
+        },
+        {
+          "country": "Togo",
+          "pct": 0.0,
+          "landCells": 23
+        },
+        {
+          "country": "Ghana",
+          "pct": 0.0,
+          "landCells": 78
+        },
+        {
+          "country": "C\u00f4te d'Ivoire",
+          "pct": 0.0,
+          "landCells": 110
+        },
+        {
+          "country": "Liberia",
+          "pct": 0.0,
+          "landCells": 40
+        },
+        {
+          "country": "Sierra Leone",
+          "pct": 0.0,
+          "landCells": 36
+        },
+        {
+          "country": "Burkina Faso",
+          "pct": 0.0,
+          "landCells": 110
+        },
+        {
+          "country": "Congo",
+          "pct": 0.0,
+          "landCells": 118
+        },
+        {
+          "country": "Gabon",
+          "pct": 0.0,
+          "landCells": 96
+        },
+        {
+          "country": "Eq. Guinea",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Malawi",
+          "pct": 0.0,
+          "landCells": 38
+        },
+        {
+          "country": "Burundi",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Lebanon",
+          "pct": 0.0,
+          "landCells": 5
+        },
+        {
+          "country": "Qatar",
+          "pct": 0.0,
+          "landCells": 5
+        },
+        {
+          "country": "Kuwait",
+          "pct": 0.0,
+          "landCells": 3
+        },
+        {
+          "country": "Armenia",
+          "pct": 0.0,
+          "landCells": 4
+        },
+        {
+          "country": "Belgium",
+          "pct": 0.0,
+          "landCells": 18
+        },
+        {
+          "country": "Netherlands",
+          "pct": 0.0,
+          "landCells": 33
+        },
+        {
+          "country": "Sri Lanka",
+          "pct": 0.0,
+          "landCells": 31
+        },
+        {
+          "country": "Malaysia",
+          "pct": 0.0,
+          "landCells": 146
+        },
+        {
+          "country": "Brunei",
+          "pct": 0.0,
+          "landCells": 6
+        },
+        {
+          "country": "N. Cyprus",
+          "pct": 0.0,
+          "landCells": 2
+        },
+        {
+          "country": "Cyprus",
+          "pct": 0.0,
+          "landCells": 9
+        },
+        {
+          "country": "Uganda",
+          "pct": 0.0,
+          "landCells": 91
+        },
+        {
+          "country": "Rwanda",
+          "pct": 0.0,
+          "landCells": 12
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "pct": 0.0,
+          "landCells": 7
+        }
+      ]
+    },
+    "ssp245_2041_2070": {
+      "scenario": "ssp245",
+      "label": "2041\u20132070",
+      "pctLandChangingZone": 33.3,
+      "topTransitions": [
+        {
+          "from": "BSh",
+          "to": "BWh",
+          "pctOfChanged": 28.7
+        },
+        {
+          "from": "Dfb",
+          "to": "Dfa",
+          "pctOfChanged": 9.4
+        },
+        {
+          "from": "Cfa",
+          "to": "Aw",
+          "pctOfChanged": 7.8
+        },
+        {
+          "from": "BSk",
+          "to": "BSh",
+          "pctOfChanged": 7.7
+        },
+        {
+          "from": "Csb",
+          "to": "Csa",
+          "pctOfChanged": 7.0
+        },
+        {
+          "from": "Dfc",
+          "to": "Dfb",
+          "pctOfChanged": 6.7
+        },
+        {
+          "from": "ET",
+          "to": "Dfc",
+          "pctOfChanged": 5.9
+        },
+        {
+          "from": "EF",
+          "to": "ET",
+          "pctOfChanged": 5.6
+        }
+      ],
+      "countryRanking": [
+        {
+          "country": "W. Sahara",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Fr. S. Antarctic Lands",
+          "pct": 100.0,
+          "landCells": 12
+        },
+        {
+          "country": "Cuba",
+          "pct": 100.0,
+          "landCells": 66
+        },
+        {
+          "country": "eSwatini",
+          "pct": 100.0,
+          "landCells": 11
+        },
+        {
+          "country": "Palestine",
+          "pct": 100.0,
+          "landCells": 5
+        },
+        {
+          "country": "United Arab Emirates",
+          "pct": 100.0,
+          "landCells": 27
+        },
+        {
+          "country": "Qatar",
+          "pct": 100.0,
+          "landCells": 5
+        },
+        {
+          "country": "Bangladesh",
+          "pct": 100.0,
+          "landCells": 69
+        },
+        {
+          "country": "Bhutan",
+          "pct": 100.0,
+          "landCells": 18
+        },
+        {
+          "country": "Austria",
+          "pct": 100.0,
+          "landCells": 25
+        },
+        {
+          "country": "Latvia",
+          "pct": 100.0,
+          "landCells": 43
+        },
+        {
+          "country": "Switzerland",
+          "pct": 100.0,
+          "landCells": 26
+        },
+        {
+          "country": "New Caledonia",
+          "pct": 100.0,
+          "landCells": 15
+        },
+        {
+          "country": "Taiwan",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Denmark",
+          "pct": 100.0,
+          "landCells": 37
+        },
+        {
+          "country": "Bosnia and Herz.",
+          "pct": 100.0,
+          "landCells": 28
+        },
+        {
+          "country": "Montenegro",
+          "pct": 100.0,
+          "landCells": 11
+        },
+        {
+          "country": "Slovakia",
+          "pct": 96.9,
+          "landCells": 32
+        },
+        {
+          "country": "Bulgaria",
+          "pct": 95.7,
+          "landCells": 47
+        },
+        {
+          "country": "Albania",
+          "pct": 93.3,
+          "landCells": 15
+        },
+        {
+          "country": "Haiti",
+          "pct": 92.9,
+          "landCells": 14
+        },
+        {
+          "country": "Kosovo",
+          "pct": 90.9,
+          "landCells": 11
+        },
+        {
+          "country": "Jamaica",
+          "pct": 90.0,
+          "landCells": 10
+        },
+        {
+          "country": "Moldova",
+          "pct": 89.3,
+          "landCells": 19
+        },
+        {
+          "country": "Fiji",
+          "pct": 88.9,
+          "landCells": 18
+        },
+        {
+          "country": "Pakistan",
+          "pct": 87.1,
+          "landCells": 330
+        },
+        {
+          "country": "Georgia",
+          "pct": 85.5,
+          "landCells": 42
+        },
+        {
+          "country": "Djibouti",
+          "pct": 83.3,
+          "landCells": 12
+        },
+        {
+          "country": "Serbia",
+          "pct": 83.3,
+          "landCells": 43
+        },
+        {
+          "country": "Croatia",
+          "pct": 82.4,
+          "landCells": 17
+        },
+        {
+          "country": "Puerto Rico",
+          "pct": 81.8,
+          "landCells": 11
+        },
+        {
+          "country": "Italy",
+          "pct": 81.6,
+          "landCells": 187
+        },
+        {
+          "country": "Hungary",
+          "pct": 77.9,
+          "landCells": 36
+        },
+        {
+          "country": "Vanuatu",
+          "pct": 77.7,
+          "landCells": 9
+        },
+        {
+          "country": "Slovenia",
+          "pct": 77.5,
+          "landCells": 18
+        },
+        {
+          "country": "Guinea-Bissau",
+          "pct": 76.2,
+          "landCells": 21
+        },
+        {
+          "country": "Honduras",
+          "pct": 76.1,
+          "landCells": 46
+        },
+        {
+          "country": "Nicaragua",
+          "pct": 75.5,
+          "landCells": 49
+        },
+        {
+          "country": "Gambia",
+          "pct": 75.0,
+          "landCells": 12
+        },
+        {
+          "country": "Israel",
+          "pct": 74.7,
+          "landCells": 4
+        },
+        {
+          "country": "France",
+          "pct": 72.9,
+          "landCells": 299
+        },
+        {
+          "country": "Cambodia",
+          "pct": 69.2,
+          "landCells": 52
+        },
+        {
+          "country": "Namibia",
+          "pct": 69.1,
+          "landCells": 304
+        },
+        {
+          "country": "Mexico",
+          "pct": 68.7,
+          "landCells": 771
+        },
+        {
+          "country": "Romania",
+          "pct": 68.1,
+          "landCells": 112
+        },
+        {
+          "country": "Saudi Arabia",
+          "pct": 67.5,
+          "landCells": 725
+        },
+        {
+          "country": "Luxembourg",
+          "pct": 66.9,
+          "landCells": 3
+        },
+        {
+          "country": "Oman",
+          "pct": 66.5,
+          "landCells": 118
+        },
+        {
+          "country": "Ukraine",
+          "pct": 65.0,
+          "landCells": 294
+        },
+        {
+          "country": "Uzbekistan",
+          "pct": 64.8,
+          "landCells": 199
+        },
+        {
+          "country": "South Africa",
+          "pct": 64.4,
+          "landCells": 432
+        },
+        {
+          "country": "Bahamas",
+          "pct": 62.9,
+          "landCells": 16
+        },
+        {
+          "country": "Vietnam",
+          "pct": 61.9,
+          "landCells": 129
+        },
+        {
+          "country": "Czechia",
+          "pct": 61.6,
+          "landCells": 54
+        },
+        {
+          "country": "El Salvador",
+          "pct": 60.0,
+          "landCells": 10
+        },
+        {
+          "country": "Egypt",
+          "pct": 58.2,
+          "landCells": 389
+        },
+        {
+          "country": "New Zealand",
+          "pct": 58.1,
+          "landCells": 156
+        },
+        {
+          "country": "Madagascar",
+          "pct": 58.0,
+          "landCells": 234
+        },
+        {
+          "country": "Zimbabwe",
+          "pct": 57.9,
+          "landCells": 116
+        },
+        {
+          "country": "North Korea",
+          "pct": 56.7,
+          "landCells": 56
+        },
+        {
+          "country": "Morocco",
+          "pct": 56.6,
+          "landCells": 255
+        },
+        {
+          "country": "Jordan",
+          "pct": 54.8,
+          "landCells": 29
+        },
+        {
+          "country": "Chile",
+          "pct": 54.1,
+          "landCells": 426
+        },
+        {
+          "country": "Dominican Rep.",
+          "pct": 53.6,
+          "landCells": 28
+        },
+        {
+          "country": "Tajikistan",
+          "pct": 51.8,
+          "landCells": 68
+        },
+        {
+          "country": "China",
+          "pct": 50.6,
+          "landCells": 3983
+        },
+        {
+          "country": "India",
+          "pct": 50.2,
+          "landCells": 1091
+        },
+        {
+          "country": "Libya",
+          "pct": 50.0,
+          "landCells": 655
+        },
+        {
+          "country": "Portugal",
+          "pct": 47.8,
+          "landCells": 37
+        },
+        {
+          "country": "Uruguay",
+          "pct": 47.5,
+          "landCells": 68
+        },
+        {
+          "country": "Australia",
+          "pct": 47.4,
+          "landCells": 2920
+        },
+        {
+          "country": "Spain",
+          "pct": 47.3,
+          "landCells": 245
+        },
+        {
+          "country": "Estonia",
+          "pct": 47.0,
+          "landCells": 39
+        },
+        {
+          "country": "Argentina",
+          "pct": 44.8,
+          "landCells": 1088
+        },
+        {
+          "country": "Belarus",
+          "pct": 44.8,
+          "landCells": 102
+        },
+        {
+          "country": "Lesotho",
+          "pct": 44.6,
+          "landCells": 18
+        },
+        {
+          "country": "Mozambique",
+          "pct": 43.6,
+          "landCells": 321
+        },
+        {
+          "country": "Lithuania",
+          "pct": 43.0,
+          "landCells": 39
+        },
+        {
+          "country": "Sweden",
+          "pct": 42.5,
+          "landCells": 345
+        },
+        {
+          "country": "United Kingdom",
+          "pct": 42.2,
+          "landCells": 174
+        },
+        {
+          "country": "Azerbaijan",
+          "pct": 42.0,
+          "landCells": 45
+        },
+        {
+          "country": "North Macedonia",
+          "pct": 41.6,
+          "landCells": 12
+        },
+        {
+          "country": "Mauritania",
+          "pct": 40.5,
+          "landCells": 399
+        },
+        {
+          "country": "Japan",
+          "pct": 40.4,
+          "landCells": 215
+        },
+        {
+          "country": "Iraq",
+          "pct": 39.8,
+          "landCells": 150
+        },
+        {
+          "country": "Iran",
+          "pct": 38.9,
+          "landCells": 647
+        },
+        {
+          "country": "Afghanistan",
+          "pct": 38.0,
+          "landCells": 248
+        },
+        {
+          "country": "Russia",
+          "pct": 37.9,
+          "landCells": 12027
+        },
+        {
+          "country": "Canada",
+          "pct": 37.4,
+          "landCells": 7353
+        },
+        {
+          "country": "Chad",
+          "pct": 36.9,
+          "landCells": 408
+        },
+        {
+          "country": "Nepal",
+          "pct": 35.9,
+          "landCells": 59
+        },
+        {
+          "country": "Greece",
+          "pct": 34.7,
+          "landCells": 76
+        },
+        {
+          "country": "Myanmar",
+          "pct": 34.5,
+          "landCells": 239
+        },
+        {
+          "country": "Germany",
+          "pct": 33.8,
+          "landCells": 183
+        },
+        {
+          "country": "Bolivia",
+          "pct": 33.4,
+          "landCells": 383
+        },
+        {
+          "country": "Sudan",
+          "pct": 31.9,
+          "landCells": 566
+        },
+        {
+          "country": "Turkey",
+          "pct": 30.4,
+          "landCells": 369
+        },
+        {
+          "country": "Iceland",
+          "pct": 30.1,
+          "landCells": 96
+        },
+        {
+          "country": "Algeria",
+          "pct": 30.0,
+          "landCells": 867
+        },
+        {
+          "country": "Poland",
+          "pct": 29.7,
+          "landCells": 166
+        },
+        {
+          "country": "United States of America",
+          "pct": 28.2,
+          "landCells": 4705
+        },
+        {
+          "country": "Thailand",
+          "pct": 28.1,
+          "landCells": 167
+        },
+        {
+          "country": "Finland",
+          "pct": 27.9,
+          "landCells": 276
+        },
+        {
+          "country": "Yemen",
+          "pct": 27.7,
+          "landCells": 160
+        },
+        {
+          "country": "Belize",
+          "pct": 26.7,
+          "landCells": 15
+        },
+        {
+          "country": "Laos",
+          "pct": 26.3,
+          "landCells": 76
+        },
+        {
+          "country": "Senegal",
+          "pct": 26.0,
+          "landCells": 50
+        },
+        {
+          "country": "Guatemala",
+          "pct": 25.7,
+          "landCells": 47
+        },
+        {
+          "country": "Zambia",
+          "pct": 24.1,
+          "landCells": 258
+        },
+        {
+          "country": "Somaliland",
+          "pct": 23.4,
+          "landCells": 64
+        },
+        {
+          "country": "Philippines",
+          "pct": 22.2,
+          "landCells": 165
+        },
+        {
+          "country": "Niger",
+          "pct": 21.5,
+          "landCells": 399
+        },
+        {
+          "country": "Greenland",
+          "pct": 21.0,
+          "landCells": 2859
+        },
+        {
+          "country": "Brazil",
+          "pct": 21.0,
+          "landCells": 2822
+        },
+        {
+          "country": "Mali",
+          "pct": 20.8,
+          "landCells": 372
+        },
+        {
+          "country": "Costa Rica",
+          "pct": 20.0,
+          "landCells": 25
+        },
+        {
+          "country": "Guinea",
+          "pct": 19.5,
+          "landCells": 82
+        },
+        {
+          "country": "Eritrea",
+          "pct": 19.4,
+          "landCells": 36
+        },
+        {
+          "country": "Angola",
+          "pct": 17.8,
+          "landCells": 463
+        },
+        {
+          "country": "Kazakhstan",
+          "pct": 17.3,
+          "landCells": 1233
+        },
+        {
+          "country": "Norway",
+          "pct": 17.2,
+          "landCells": 390
+        },
+        {
+          "country": "Tunisia",
+          "pct": 16.8,
+          "landCells": 55
+        },
+        {
+          "country": "Peru",
+          "pct": 16.1,
+          "landCells": 448
+        },
+        {
+          "country": "Antarctica",
+          "pct": 15.1,
+          "landCells": 24649
+        },
+        {
+          "country": "Kyrgyzstan",
+          "pct": 13.8,
+          "landCells": 93
+        },
+        {
+          "country": "Turkmenistan",
+          "pct": 13.4,
+          "landCells": 204
+        },
+        {
+          "country": "Ireland",
+          "pct": 11.7,
+          "landCells": 33
+        },
+        {
+          "country": "Ethiopia",
+          "pct": 10.4,
+          "landCells": 381
+        },
+        {
+          "country": "Paraguay",
+          "pct": 10.0,
+          "landCells": 165
+        },
+        {
+          "country": "S. Sudan",
+          "pct": 9.7,
+          "landCells": 238
+        },
+        {
+          "country": "Botswana",
+          "pct": 9.6,
+          "landCells": 218
+        },
+        {
+          "country": "Central African Rep.",
+          "pct": 9.1,
+          "landCells": 220
+        },
+        {
+          "country": "Syria",
+          "pct": 7.9,
+          "landCells": 78
+        },
+        {
+          "country": "Venezuela",
+          "pct": 7.8,
+          "landCells": 332
+        },
+        {
+          "country": "Somalia",
+          "pct": 6.2,
+          "landCells": 174
+        },
+        {
+          "country": "Solomon Is.",
+          "pct": 4.2,
+          "landCells": 24
+        },
+        {
+          "country": "Mongolia",
+          "pct": 4.1,
+          "landCells": 716
+        },
+        {
+          "country": "Tanzania",
+          "pct": 3.1,
+          "landCells": 285
+        },
+        {
+          "country": "Colombia",
+          "pct": 2.3,
+          "landCells": 385
+        },
+        {
+          "country": "South Korea",
+          "pct": 1.9,
+          "landCells": 50
+        },
+        {
+          "country": "Papua New Guinea",
+          "pct": 0.6,
+          "landCells": 179
+        },
+        {
+          "country": "Indonesia",
+          "pct": 0.0,
+          "landCells": 758
+        },
+        {
+          "country": "Dem. Rep. Congo",
+          "pct": 0.0,
+          "landCells": 695
+        },
+        {
+          "country": "Kenya",
+          "pct": 0.0,
+          "landCells": 189
+        },
+        {
+          "country": "Falkland Is.",
+          "pct": 0.0,
+          "landCells": 12
+        },
+        {
+          "country": "Timor-Leste",
+          "pct": 0.0,
+          "landCells": 11
+        },
+        {
+          "country": "Panama",
+          "pct": 0.0,
+          "landCells": 39
+        },
+        {
+          "country": "Guyana",
+          "pct": 0.0,
+          "landCells": 77
+        },
+        {
+          "country": "Suriname",
+          "pct": 0.0,
+          "landCells": 56
+        },
+        {
+          "country": "Ecuador",
+          "pct": 0.0,
+          "landCells": 97
+        },
+        {
+          "country": "Benin",
+          "pct": 0.0,
+          "landCells": 26
+        },
+        {
+          "country": "Nigeria",
+          "pct": 0.0,
+          "landCells": 310
+        },
+        {
+          "country": "Cameroon",
+          "pct": 0.0,
+          "landCells": 155
+        },
+        {
+          "country": "Togo",
+          "pct": 0.0,
+          "landCells": 23
+        },
+        {
+          "country": "Ghana",
+          "pct": 0.0,
+          "landCells": 78
+        },
+        {
+          "country": "C\u00f4te d'Ivoire",
+          "pct": 0.0,
+          "landCells": 110
+        },
+        {
+          "country": "Liberia",
+          "pct": 0.0,
+          "landCells": 40
+        },
+        {
+          "country": "Sierra Leone",
+          "pct": 0.0,
+          "landCells": 36
+        },
+        {
+          "country": "Burkina Faso",
+          "pct": 0.0,
+          "landCells": 110
+        },
+        {
+          "country": "Congo",
+          "pct": 0.0,
+          "landCells": 118
+        },
+        {
+          "country": "Gabon",
+          "pct": 0.0,
+          "landCells": 96
+        },
+        {
+          "country": "Eq. Guinea",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Malawi",
+          "pct": 0.0,
+          "landCells": 38
+        },
+        {
+          "country": "Burundi",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Lebanon",
+          "pct": 0.0,
+          "landCells": 5
+        },
+        {
+          "country": "Kuwait",
+          "pct": 0.0,
+          "landCells": 3
+        },
+        {
+          "country": "Armenia",
+          "pct": 0.0,
+          "landCells": 4
+        },
+        {
+          "country": "Belgium",
+          "pct": 0.0,
+          "landCells": 18
+        },
+        {
+          "country": "Netherlands",
+          "pct": 0.0,
+          "landCells": 33
+        },
+        {
+          "country": "Sri Lanka",
+          "pct": 0.0,
+          "landCells": 31
+        },
+        {
+          "country": "Malaysia",
+          "pct": 0.0,
+          "landCells": 146
+        },
+        {
+          "country": "Brunei",
+          "pct": 0.0,
+          "landCells": 6
+        },
+        {
+          "country": "N. Cyprus",
+          "pct": 0.0,
+          "landCells": 2
+        },
+        {
+          "country": "Cyprus",
+          "pct": 0.0,
+          "landCells": 9
+        },
+        {
+          "country": "Uganda",
+          "pct": 0.0,
+          "landCells": 91
+        },
+        {
+          "country": "Rwanda",
+          "pct": 0.0,
+          "landCells": 12
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "pct": 0.0,
+          "landCells": 7
+        }
+      ]
+    },
+    "ssp245_2071_2099": {
+      "scenario": "ssp245",
+      "label": "2071\u20132099",
+      "pctLandChangingZone": 41.1,
+      "topTransitions": [
+        {
+          "from": "BSh",
+          "to": "BWh",
+          "pctOfChanged": 25.5
+        },
+        {
+          "from": "Dfb",
+          "to": "Dfa",
+          "pctOfChanged": 9.2
+        },
+        {
+          "from": "Cfa",
+          "to": "Aw",
+          "pctOfChanged": 7.9
+        },
+        {
+          "from": "Dfc",
+          "to": "Dfb",
+          "pctOfChanged": 7.1
+        },
+        {
+          "from": "ET",
+          "to": "Dfc",
+          "pctOfChanged": 7.0
+        },
+        {
+          "from": "EF",
+          "to": "ET",
+          "pctOfChanged": 6.5
+        },
+        {
+          "from": "BSk",
+          "to": "BSh",
+          "pctOfChanged": 6.4
+        },
+        {
+          "from": "Csb",
+          "to": "Csa",
+          "pctOfChanged": 5.8
+        }
+      ],
+      "countryRanking": [
+        {
+          "country": "W. Sahara",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Bahamas",
+          "pct": 100.0,
+          "landCells": 16
+        },
+        {
+          "country": "Fr. S. Antarctic Lands",
+          "pct": 100.0,
+          "landCells": 12
+        },
+        {
+          "country": "Cuba",
+          "pct": 100.0,
+          "landCells": 66
+        },
+        {
+          "country": "eSwatini",
+          "pct": 100.0,
+          "landCells": 11
+        },
+        {
+          "country": "Palestine",
+          "pct": 100.0,
+          "landCells": 5
+        },
+        {
+          "country": "United Arab Emirates",
+          "pct": 100.0,
+          "landCells": 27
+        },
+        {
+          "country": "Qatar",
+          "pct": 100.0,
+          "landCells": 5
+        },
+        {
+          "country": "Kuwait",
+          "pct": 100.0,
+          "landCells": 3
+        },
+        {
+          "country": "Bangladesh",
+          "pct": 100.0,
+          "landCells": 69
+        },
+        {
+          "country": "Bhutan",
+          "pct": 100.0,
+          "landCells": 18
+        },
+        {
+          "country": "Austria",
+          "pct": 100.0,
+          "landCells": 25
+        },
+        {
+          "country": "Moldova",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Latvia",
+          "pct": 100.0,
+          "landCells": 43
+        },
+        {
+          "country": "Estonia",
+          "pct": 100.0,
+          "landCells": 39
+        },
+        {
+          "country": "Croatia",
+          "pct": 100.0,
+          "landCells": 17
+        },
+        {
+          "country": "Switzerland",
+          "pct": 100.0,
+          "landCells": 26
+        },
+        {
+          "country": "Luxembourg",
+          "pct": 100.0,
+          "landCells": 3
+        },
+        {
+          "country": "New Caledonia",
+          "pct": 100.0,
+          "landCells": 15
+        },
+        {
+          "country": "Taiwan",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Denmark",
+          "pct": 100.0,
+          "landCells": 37
+        },
+        {
+          "country": "Slovenia",
+          "pct": 100.0,
+          "landCells": 18
+        },
+        {
+          "country": "Bosnia and Herz.",
+          "pct": 100.0,
+          "landCells": 28
+        },
+        {
+          "country": "Montenegro",
+          "pct": 100.0,
+          "landCells": 11
+        },
+        {
+          "country": "Czechia",
+          "pct": 98.2,
+          "landCells": 54
+        },
+        {
+          "country": "Ukraine",
+          "pct": 96.9,
+          "landCells": 294
+        },
+        {
+          "country": "Slovakia",
+          "pct": 96.9,
+          "landCells": 32
+        },
+        {
+          "country": "Bulgaria",
+          "pct": 95.7,
+          "landCells": 47
+        },
+        {
+          "country": "Albania",
+          "pct": 93.3,
+          "landCells": 15
+        },
+        {
+          "country": "Haiti",
+          "pct": 92.9,
+          "landCells": 14
+        },
+        {
+          "country": "Kosovo",
+          "pct": 90.9,
+          "landCells": 11
+        },
+        {
+          "country": "Cambodia",
+          "pct": 90.4,
+          "landCells": 52
+        },
+        {
+          "country": "Jamaica",
+          "pct": 90.0,
+          "landCells": 10
+        },
+        {
+          "country": "Tajikistan",
+          "pct": 89.8,
+          "landCells": 68
+        },
+        {
+          "country": "Pakistan",
+          "pct": 89.7,
+          "landCells": 330
+        },
+        {
+          "country": "Belgium",
+          "pct": 89.0,
+          "landCells": 18
+        },
+        {
+          "country": "Fiji",
+          "pct": 88.9,
+          "landCells": 18
+        },
+        {
+          "country": "Italy",
+          "pct": 85.7,
+          "landCells": 187
+        },
+        {
+          "country": "Georgia",
+          "pct": 85.5,
+          "landCells": 42
+        },
+        {
+          "country": "France",
+          "pct": 83.9,
+          "landCells": 299
+        },
+        {
+          "country": "Belarus",
+          "pct": 83.9,
+          "landCells": 102
+        },
+        {
+          "country": "Gambia",
+          "pct": 83.3,
+          "landCells": 12
+        },
+        {
+          "country": "Djibouti",
+          "pct": 83.3,
+          "landCells": 12
+        },
+        {
+          "country": "Serbia",
+          "pct": 83.3,
+          "landCells": 43
+        },
+        {
+          "country": "Puerto Rico",
+          "pct": 81.8,
+          "landCells": 11
+        },
+        {
+          "country": "Romania",
+          "pct": 81.6,
+          "landCells": 112
+        },
+        {
+          "country": "Guinea-Bissau",
+          "pct": 80.9,
+          "landCells": 21
+        },
+        {
+          "country": "Uzbekistan",
+          "pct": 80.2,
+          "landCells": 199
+        },
+        {
+          "country": "Hungary",
+          "pct": 77.9,
+          "landCells": 36
+        },
+        {
+          "country": "Vanuatu",
+          "pct": 77.7,
+          "landCells": 9
+        },
+        {
+          "country": "Honduras",
+          "pct": 76.1,
+          "landCells": 46
+        },
+        {
+          "country": "Mexico",
+          "pct": 75.7,
+          "landCells": 771
+        },
+        {
+          "country": "Nicaragua",
+          "pct": 75.5,
+          "landCells": 49
+        },
+        {
+          "country": "Iceland",
+          "pct": 74.9,
+          "landCells": 96
+        },
+        {
+          "country": "Israel",
+          "pct": 74.7,
+          "landCells": 4
+        },
+        {
+          "country": "Namibia",
+          "pct": 73.5,
+          "landCells": 304
+        },
+        {
+          "country": "Saudi Arabia",
+          "pct": 72.1,
+          "landCells": 725
+        },
+        {
+          "country": "South Africa",
+          "pct": 71.8,
+          "landCells": 432
+        },
+        {
+          "country": "Egypt",
+          "pct": 69.7,
+          "landCells": 389
+        },
+        {
+          "country": "New Zealand",
+          "pct": 69.4,
+          "landCells": 156
+        },
+        {
+          "country": "Morocco",
+          "pct": 68.6,
+          "landCells": 255
+        },
+        {
+          "country": "Sweden",
+          "pct": 68.2,
+          "landCells": 345
+        },
+        {
+          "country": "Lesotho",
+          "pct": 66.9,
+          "landCells": 18
+        },
+        {
+          "country": "Oman",
+          "pct": 66.5,
+          "landCells": 118
+        },
+        {
+          "country": "Chile",
+          "pct": 65.3,
+          "landCells": 426
+        },
+        {
+          "country": "Jordan",
+          "pct": 65.3,
+          "landCells": 29
+        },
+        {
+          "country": "United Kingdom",
+          "pct": 62.6,
+          "landCells": 174
+        },
+        {
+          "country": "Vietnam",
+          "pct": 61.9,
+          "landCells": 129
+        },
+        {
+          "country": "China",
+          "pct": 60.2,
+          "landCells": 3983
+        },
+        {
+          "country": "El Salvador",
+          "pct": 60.0,
+          "landCells": 10
+        },
+        {
+          "country": "Madagascar",
+          "pct": 58.0,
+          "landCells": 234
+        },
+        {
+          "country": "Zimbabwe",
+          "pct": 57.9,
+          "landCells": 116
+        },
+        {
+          "country": "Chad",
+          "pct": 57.5,
+          "landCells": 408
+        },
+        {
+          "country": "Germany",
+          "pct": 57.1,
+          "landCells": 183
+        },
+        {
+          "country": "North Korea",
+          "pct": 56.7,
+          "landCells": 56
+        },
+        {
+          "country": "Canada",
+          "pct": 56.4,
+          "landCells": 7353
+        },
+        {
+          "country": "Libya",
+          "pct": 54.7,
+          "landCells": 655
+        },
+        {
+          "country": "Dominican Rep.",
+          "pct": 53.6,
+          "landCells": 28
+        },
+        {
+          "country": "Poland",
+          "pct": 52.5,
+          "landCells": 166
+        },
+        {
+          "country": "Russia",
+          "pct": 51.5,
+          "landCells": 12027
+        },
+        {
+          "country": "India",
+          "pct": 50.3,
+          "landCells": 1091
+        },
+        {
+          "country": "Australia",
+          "pct": 49.8,
+          "landCells": 2920
+        },
+        {
+          "country": "Argentina",
+          "pct": 48.8,
+          "landCells": 1088
+        },
+        {
+          "country": "Mozambique",
+          "pct": 48.4,
+          "landCells": 321
+        },
+        {
+          "country": "Portugal",
+          "pct": 47.8,
+          "landCells": 37
+        },
+        {
+          "country": "Uruguay",
+          "pct": 47.5,
+          "landCells": 68
+        },
+        {
+          "country": "Afghanistan",
+          "pct": 47.3,
+          "landCells": 248
+        },
+        {
+          "country": "Spain",
+          "pct": 47.3,
+          "landCells": 245
+        },
+        {
+          "country": "Iran",
+          "pct": 47.0,
+          "landCells": 647
+        },
+        {
+          "country": "Lithuania",
+          "pct": 45.6,
+          "landCells": 39
+        },
+        {
+          "country": "Japan",
+          "pct": 42.9,
+          "landCells": 215
+        },
+        {
+          "country": "Mauritania",
+          "pct": 42.8,
+          "landCells": 399
+        },
+        {
+          "country": "Iraq",
+          "pct": 42.6,
+          "landCells": 150
+        },
+        {
+          "country": "Azerbaijan",
+          "pct": 42.0,
+          "landCells": 45
+        },
+        {
+          "country": "North Macedonia",
+          "pct": 41.6,
+          "landCells": 12
+        },
+        {
+          "country": "Senegal",
+          "pct": 40.0,
+          "landCells": 50
+        },
+        {
+          "country": "Niger",
+          "pct": 38.7,
+          "landCells": 399
+        },
+        {
+          "country": "United States of America",
+          "pct": 38.2,
+          "landCells": 4705
+        },
+        {
+          "country": "Finland",
+          "pct": 37.6,
+          "landCells": 276
+        },
+        {
+          "country": "Sudan",
+          "pct": 37.4,
+          "landCells": 566
+        },
+        {
+          "country": "Norway",
+          "pct": 37.1,
+          "landCells": 390
+        },
+        {
+          "country": "Bolivia",
+          "pct": 37.0,
+          "landCells": 383
+        },
+        {
+          "country": "Nepal",
+          "pct": 35.9,
+          "landCells": 59
+        },
+        {
+          "country": "Greece",
+          "pct": 34.7,
+          "landCells": 76
+        },
+        {
+          "country": "Myanmar",
+          "pct": 34.5,
+          "landCells": 239
+        },
+        {
+          "country": "Mali",
+          "pct": 32.8,
+          "landCells": 372
+        },
+        {
+          "country": "Laos",
+          "pct": 31.6,
+          "landCells": 76
+        },
+        {
+          "country": "Thailand",
+          "pct": 31.1,
+          "landCells": 167
+        },
+        {
+          "country": "Greenland",
+          "pct": 30.5,
+          "landCells": 2859
+        },
+        {
+          "country": "Guinea",
+          "pct": 30.4,
+          "landCells": 82
+        },
+        {
+          "country": "Turkey",
+          "pct": 30.4,
+          "landCells": 369
+        },
+        {
+          "country": "Algeria",
+          "pct": 30.0,
+          "landCells": 867
+        },
+        {
+          "country": "Kyrgyzstan",
+          "pct": 27.8,
+          "landCells": 93
+        },
+        {
+          "country": "Yemen",
+          "pct": 27.7,
+          "landCells": 160
+        },
+        {
+          "country": "Kazakhstan",
+          "pct": 26.8,
+          "landCells": 1233
+        },
+        {
+          "country": "Belize",
+          "pct": 26.7,
+          "landCells": 15
+        },
+        {
+          "country": "Guatemala",
+          "pct": 25.7,
+          "landCells": 47
+        },
+        {
+          "country": "Brazil",
+          "pct": 25.6,
+          "landCells": 2822
+        },
+        {
+          "country": "Eritrea",
+          "pct": 25.0,
+          "landCells": 36
+        },
+        {
+          "country": "Zambia",
+          "pct": 24.1,
+          "landCells": 258
+        },
+        {
+          "country": "Somaliland",
+          "pct": 23.4,
+          "landCells": 64
+        },
+        {
+          "country": "Botswana",
+          "pct": 23.2,
+          "landCells": 218
+        },
+        {
+          "country": "Philippines",
+          "pct": 22.2,
+          "landCells": 165
+        },
+        {
+          "country": "Angola",
+          "pct": 22.1,
+          "landCells": 463
+        },
+        {
+          "country": "Antarctica",
+          "pct": 22.1,
+          "landCells": 24649
+        },
+        {
+          "country": "Peru",
+          "pct": 21.4,
+          "landCells": 448
+        },
+        {
+          "country": "Costa Rica",
+          "pct": 20.0,
+          "landCells": 25
+        },
+        {
+          "country": "Falkland Is.",
+          "pct": 16.9,
+          "landCells": 12
+        },
+        {
+          "country": "Tunisia",
+          "pct": 16.8,
+          "landCells": 55
+        },
+        {
+          "country": "Paraguay",
+          "pct": 16.2,
+          "landCells": 165
+        },
+        {
+          "country": "S. Sudan",
+          "pct": 16.0,
+          "landCells": 238
+        },
+        {
+          "country": "Central African Rep.",
+          "pct": 15.4,
+          "landCells": 220
+        },
+        {
+          "country": "Ethiopia",
+          "pct": 15.0,
+          "landCells": 381
+        },
+        {
+          "country": "Turkmenistan",
+          "pct": 13.4,
+          "landCells": 204
+        },
+        {
+          "country": "Ireland",
+          "pct": 11.7,
+          "landCells": 33
+        },
+        {
+          "country": "Netherlands",
+          "pct": 9.3,
+          "landCells": 33
+        },
+        {
+          "country": "Mongolia",
+          "pct": 9.1,
+          "landCells": 716
+        },
+        {
+          "country": "Syria",
+          "pct": 7.9,
+          "landCells": 78
+        },
+        {
+          "country": "Venezuela",
+          "pct": 7.8,
+          "landCells": 332
+        },
+        {
+          "country": "Somalia",
+          "pct": 6.2,
+          "landCells": 174
+        },
+        {
+          "country": "Sierra Leone",
+          "pct": 5.5,
+          "landCells": 36
+        },
+        {
+          "country": "Tanzania",
+          "pct": 5.2,
+          "landCells": 285
+        },
+        {
+          "country": "Solomon Is.",
+          "pct": 4.2,
+          "landCells": 24
+        },
+        {
+          "country": "Colombia",
+          "pct": 2.3,
+          "landCells": 385
+        },
+        {
+          "country": "South Korea",
+          "pct": 1.9,
+          "landCells": 50
+        },
+        {
+          "country": "Papua New Guinea",
+          "pct": 0.6,
+          "landCells": 179
+        },
+        {
+          "country": "Indonesia",
+          "pct": 0.0,
+          "landCells": 758
+        },
+        {
+          "country": "Dem. Rep. Congo",
+          "pct": 0.0,
+          "landCells": 695
+        },
+        {
+          "country": "Kenya",
+          "pct": 0.0,
+          "landCells": 189
+        },
+        {
+          "country": "Timor-Leste",
+          "pct": 0.0,
+          "landCells": 11
+        },
+        {
+          "country": "Panama",
+          "pct": 0.0,
+          "landCells": 39
+        },
+        {
+          "country": "Guyana",
+          "pct": 0.0,
+          "landCells": 77
+        },
+        {
+          "country": "Suriname",
+          "pct": 0.0,
+          "landCells": 56
+        },
+        {
+          "country": "Ecuador",
+          "pct": 0.0,
+          "landCells": 97
+        },
+        {
+          "country": "Benin",
+          "pct": 0.0,
+          "landCells": 26
+        },
+        {
+          "country": "Nigeria",
+          "pct": 0.0,
+          "landCells": 310
+        },
+        {
+          "country": "Cameroon",
+          "pct": 0.0,
+          "landCells": 155
+        },
+        {
+          "country": "Togo",
+          "pct": 0.0,
+          "landCells": 23
+        },
+        {
+          "country": "Ghana",
+          "pct": 0.0,
+          "landCells": 78
+        },
+        {
+          "country": "C\u00f4te d'Ivoire",
+          "pct": 0.0,
+          "landCells": 110
+        },
+        {
+          "country": "Liberia",
+          "pct": 0.0,
+          "landCells": 40
+        },
+        {
+          "country": "Burkina Faso",
+          "pct": 0.0,
+          "landCells": 110
+        },
+        {
+          "country": "Congo",
+          "pct": 0.0,
+          "landCells": 118
+        },
+        {
+          "country": "Gabon",
+          "pct": 0.0,
+          "landCells": 96
+        },
+        {
+          "country": "Eq. Guinea",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Malawi",
+          "pct": 0.0,
+          "landCells": 38
+        },
+        {
+          "country": "Burundi",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Lebanon",
+          "pct": 0.0,
+          "landCells": 5
+        },
+        {
+          "country": "Armenia",
+          "pct": 0.0,
+          "landCells": 4
+        },
+        {
+          "country": "Sri Lanka",
+          "pct": 0.0,
+          "landCells": 31
+        },
+        {
+          "country": "Malaysia",
+          "pct": 0.0,
+          "landCells": 146
+        },
+        {
+          "country": "Brunei",
+          "pct": 0.0,
+          "landCells": 6
+        },
+        {
+          "country": "N. Cyprus",
+          "pct": 0.0,
+          "landCells": 2
+        },
+        {
+          "country": "Cyprus",
+          "pct": 0.0,
+          "landCells": 9
+        },
+        {
+          "country": "Uganda",
+          "pct": 0.0,
+          "landCells": 91
+        },
+        {
+          "country": "Rwanda",
+          "pct": 0.0,
+          "landCells": 12
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "pct": 0.0,
+          "landCells": 7
+        }
+      ]
+    },
+    "ssp585_2041_2070": {
+      "scenario": "ssp585",
+      "label": "2041\u20132070",
+      "pctLandChangingZone": 39.8,
+      "topTransitions": [
+        {
+          "from": "BSh",
+          "to": "BWh",
+          "pctOfChanged": 26.4
+        },
+        {
+          "from": "Dfb",
+          "to": "Dfa",
+          "pctOfChanged": 9.4
+        },
+        {
+          "from": "Cfa",
+          "to": "Aw",
+          "pctOfChanged": 7.9
+        },
+        {
+          "from": "Dfc",
+          "to": "Dfb",
+          "pctOfChanged": 7.0
+        },
+        {
+          "from": "ET",
+          "to": "Dfc",
+          "pctOfChanged": 6.7
+        },
+        {
+          "from": "BSk",
+          "to": "BSh",
+          "pctOfChanged": 6.5
+        },
+        {
+          "from": "EF",
+          "to": "ET",
+          "pctOfChanged": 6.2
+        },
+        {
+          "from": "Csb",
+          "to": "Csa",
+          "pctOfChanged": 6.0
+        }
+      ],
+      "countryRanking": [
+        {
+          "country": "W. Sahara",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Bahamas",
+          "pct": 100.0,
+          "landCells": 16
+        },
+        {
+          "country": "Fr. S. Antarctic Lands",
+          "pct": 100.0,
+          "landCells": 12
+        },
+        {
+          "country": "Cuba",
+          "pct": 100.0,
+          "landCells": 66
+        },
+        {
+          "country": "eSwatini",
+          "pct": 100.0,
+          "landCells": 11
+        },
+        {
+          "country": "Palestine",
+          "pct": 100.0,
+          "landCells": 5
+        },
+        {
+          "country": "United Arab Emirates",
+          "pct": 100.0,
+          "landCells": 27
+        },
+        {
+          "country": "Qatar",
+          "pct": 100.0,
+          "landCells": 5
+        },
+        {
+          "country": "Kuwait",
+          "pct": 100.0,
+          "landCells": 3
+        },
+        {
+          "country": "Bangladesh",
+          "pct": 100.0,
+          "landCells": 69
+        },
+        {
+          "country": "Bhutan",
+          "pct": 100.0,
+          "landCells": 18
+        },
+        {
+          "country": "Austria",
+          "pct": 100.0,
+          "landCells": 25
+        },
+        {
+          "country": "Moldova",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Latvia",
+          "pct": 100.0,
+          "landCells": 43
+        },
+        {
+          "country": "Croatia",
+          "pct": 100.0,
+          "landCells": 17
+        },
+        {
+          "country": "Switzerland",
+          "pct": 100.0,
+          "landCells": 26
+        },
+        {
+          "country": "Luxembourg",
+          "pct": 100.0,
+          "landCells": 3
+        },
+        {
+          "country": "New Caledonia",
+          "pct": 100.0,
+          "landCells": 15
+        },
+        {
+          "country": "Taiwan",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Denmark",
+          "pct": 100.0,
+          "landCells": 37
+        },
+        {
+          "country": "Slovenia",
+          "pct": 100.0,
+          "landCells": 18
+        },
+        {
+          "country": "Bosnia and Herz.",
+          "pct": 100.0,
+          "landCells": 28
+        },
+        {
+          "country": "Montenegro",
+          "pct": 100.0,
+          "landCells": 11
+        },
+        {
+          "country": "Estonia",
+          "pct": 97.5,
+          "landCells": 39
+        },
+        {
+          "country": "Ukraine",
+          "pct": 96.9,
+          "landCells": 294
+        },
+        {
+          "country": "Slovakia",
+          "pct": 96.9,
+          "landCells": 32
+        },
+        {
+          "country": "Bulgaria",
+          "pct": 95.7,
+          "landCells": 47
+        },
+        {
+          "country": "Czechia",
+          "pct": 94.6,
+          "landCells": 54
+        },
+        {
+          "country": "Albania",
+          "pct": 93.3,
+          "landCells": 15
+        },
+        {
+          "country": "Haiti",
+          "pct": 92.9,
+          "landCells": 14
+        },
+        {
+          "country": "Kosovo",
+          "pct": 90.9,
+          "landCells": 11
+        },
+        {
+          "country": "Cambodia",
+          "pct": 90.4,
+          "landCells": 52
+        },
+        {
+          "country": "Jamaica",
+          "pct": 90.0,
+          "landCells": 10
+        },
+        {
+          "country": "Pakistan",
+          "pct": 89.7,
+          "landCells": 330
+        },
+        {
+          "country": "Fiji",
+          "pct": 88.9,
+          "landCells": 18
+        },
+        {
+          "country": "Italy",
+          "pct": 85.7,
+          "landCells": 187
+        },
+        {
+          "country": "Georgia",
+          "pct": 85.5,
+          "landCells": 42
+        },
+        {
+          "country": "France",
+          "pct": 83.6,
+          "landCells": 299
+        },
+        {
+          "country": "Gambia",
+          "pct": 83.3,
+          "landCells": 12
+        },
+        {
+          "country": "Djibouti",
+          "pct": 83.3,
+          "landCells": 12
+        },
+        {
+          "country": "Serbia",
+          "pct": 83.3,
+          "landCells": 43
+        },
+        {
+          "country": "Tajikistan",
+          "pct": 82.6,
+          "landCells": 68
+        },
+        {
+          "country": "Puerto Rico",
+          "pct": 81.8,
+          "landCells": 11
+        },
+        {
+          "country": "Guinea-Bissau",
+          "pct": 80.9,
+          "landCells": 21
+        },
+        {
+          "country": "Uzbekistan",
+          "pct": 78.3,
+          "landCells": 199
+        },
+        {
+          "country": "Romania",
+          "pct": 78.0,
+          "landCells": 112
+        },
+        {
+          "country": "Hungary",
+          "pct": 77.9,
+          "landCells": 36
+        },
+        {
+          "country": "Vanuatu",
+          "pct": 77.7,
+          "landCells": 9
+        },
+        {
+          "country": "Honduras",
+          "pct": 76.1,
+          "landCells": 46
+        },
+        {
+          "country": "Mexico",
+          "pct": 75.7,
+          "landCells": 771
+        },
+        {
+          "country": "Nicaragua",
+          "pct": 75.5,
+          "landCells": 49
+        },
+        {
+          "country": "Israel",
+          "pct": 74.7,
+          "landCells": 4
+        },
+        {
+          "country": "Belarus",
+          "pct": 74.3,
+          "landCells": 102
+        },
+        {
+          "country": "Namibia",
+          "pct": 73.5,
+          "landCells": 304
+        },
+        {
+          "country": "Saudi Arabia",
+          "pct": 72.1,
+          "landCells": 725
+        },
+        {
+          "country": "South Africa",
+          "pct": 71.8,
+          "landCells": 432
+        },
+        {
+          "country": "Egypt",
+          "pct": 69.7,
+          "landCells": 389
+        },
+        {
+          "country": "New Zealand",
+          "pct": 69.4,
+          "landCells": 156
+        },
+        {
+          "country": "Morocco",
+          "pct": 68.6,
+          "landCells": 255
+        },
+        {
+          "country": "Lesotho",
+          "pct": 66.9,
+          "landCells": 18
+        },
+        {
+          "country": "Iceland",
+          "pct": 66.7,
+          "landCells": 96
+        },
+        {
+          "country": "Oman",
+          "pct": 66.5,
+          "landCells": 118
+        },
+        {
+          "country": "Jordan",
+          "pct": 65.3,
+          "landCells": 29
+        },
+        {
+          "country": "Chile",
+          "pct": 64.1,
+          "landCells": 426
+        },
+        {
+          "country": "Sweden",
+          "pct": 63.3,
+          "landCells": 345
+        },
+        {
+          "country": "Vietnam",
+          "pct": 61.9,
+          "landCells": 129
+        },
+        {
+          "country": "El Salvador",
+          "pct": 60.0,
+          "landCells": 10
+        },
+        {
+          "country": "China",
+          "pct": 58.6,
+          "landCells": 3983
+        },
+        {
+          "country": "Madagascar",
+          "pct": 58.0,
+          "landCells": 234
+        },
+        {
+          "country": "Zimbabwe",
+          "pct": 57.9,
+          "landCells": 116
+        },
+        {
+          "country": "North Korea",
+          "pct": 56.7,
+          "landCells": 56
+        },
+        {
+          "country": "United Kingdom",
+          "pct": 56.5,
+          "landCells": 174
+        },
+        {
+          "country": "Belgium",
+          "pct": 55.7,
+          "landCells": 18
+        },
+        {
+          "country": "Libya",
+          "pct": 54.7,
+          "landCells": 655
+        },
+        {
+          "country": "Dominican Rep.",
+          "pct": 53.6,
+          "landCells": 28
+        },
+        {
+          "country": "Chad",
+          "pct": 53.1,
+          "landCells": 408
+        },
+        {
+          "country": "Canada",
+          "pct": 52.5,
+          "landCells": 7353
+        },
+        {
+          "country": "Germany",
+          "pct": 52.2,
+          "landCells": 183
+        },
+        {
+          "country": "India",
+          "pct": 50.3,
+          "landCells": 1091
+        },
+        {
+          "country": "Australia",
+          "pct": 49.8,
+          "landCells": 2920
+        },
+        {
+          "country": "Poland",
+          "pct": 49.4,
+          "landCells": 166
+        },
+        {
+          "country": "Russia",
+          "pct": 48.7,
+          "landCells": 12027
+        },
+        {
+          "country": "Mozambique",
+          "pct": 48.4,
+          "landCells": 321
+        },
+        {
+          "country": "Argentina",
+          "pct": 48.3,
+          "landCells": 1088
+        },
+        {
+          "country": "Portugal",
+          "pct": 47.8,
+          "landCells": 37
+        },
+        {
+          "country": "Uruguay",
+          "pct": 47.5,
+          "landCells": 68
+        },
+        {
+          "country": "Spain",
+          "pct": 47.3,
+          "landCells": 245
+        },
+        {
+          "country": "Iran",
+          "pct": 47.0,
+          "landCells": 647
+        },
+        {
+          "country": "Afghanistan",
+          "pct": 46.1,
+          "landCells": 248
+        },
+        {
+          "country": "Lithuania",
+          "pct": 43.0,
+          "landCells": 39
+        },
+        {
+          "country": "Japan",
+          "pct": 42.9,
+          "landCells": 215
+        },
+        {
+          "country": "Mauritania",
+          "pct": 42.8,
+          "landCells": 399
+        },
+        {
+          "country": "Iraq",
+          "pct": 42.6,
+          "landCells": 150
+        },
+        {
+          "country": "Azerbaijan",
+          "pct": 42.0,
+          "landCells": 45
+        },
+        {
+          "country": "North Macedonia",
+          "pct": 41.6,
+          "landCells": 12
+        },
+        {
+          "country": "Senegal",
+          "pct": 40.0,
+          "landCells": 50
+        },
+        {
+          "country": "Sudan",
+          "pct": 36.5,
+          "landCells": 566
+        },
+        {
+          "country": "Bolivia",
+          "pct": 36.5,
+          "landCells": 383
+        },
+        {
+          "country": "United States of America",
+          "pct": 36.3,
+          "landCells": 4705
+        },
+        {
+          "country": "Nepal",
+          "pct": 35.9,
+          "landCells": 59
+        },
+        {
+          "country": "Finland",
+          "pct": 35.1,
+          "landCells": 276
+        },
+        {
+          "country": "Niger",
+          "pct": 35.0,
+          "landCells": 399
+        },
+        {
+          "country": "Greece",
+          "pct": 34.7,
+          "landCells": 76
+        },
+        {
+          "country": "Myanmar",
+          "pct": 34.5,
+          "landCells": 239
+        },
+        {
+          "country": "Laos",
+          "pct": 31.6,
+          "landCells": 76
+        },
+        {
+          "country": "Thailand",
+          "pct": 31.1,
+          "landCells": 167
+        },
+        {
+          "country": "Mali",
+          "pct": 30.9,
+          "landCells": 372
+        },
+        {
+          "country": "Norway",
+          "pct": 30.6,
+          "landCells": 390
+        },
+        {
+          "country": "Guinea",
+          "pct": 30.4,
+          "landCells": 82
+        },
+        {
+          "country": "Turkey",
+          "pct": 30.4,
+          "landCells": 369
+        },
+        {
+          "country": "Algeria",
+          "pct": 30.0,
+          "landCells": 867
+        },
+        {
+          "country": "Greenland",
+          "pct": 28.3,
+          "landCells": 2859
+        },
+        {
+          "country": "Yemen",
+          "pct": 27.7,
+          "landCells": 160
+        },
+        {
+          "country": "Belize",
+          "pct": 26.7,
+          "landCells": 15
+        },
+        {
+          "country": "Kazakhstan",
+          "pct": 25.8,
+          "landCells": 1233
+        },
+        {
+          "country": "Guatemala",
+          "pct": 25.7,
+          "landCells": 47
+        },
+        {
+          "country": "Eritrea",
+          "pct": 25.0,
+          "landCells": 36
+        },
+        {
+          "country": "Brazil",
+          "pct": 24.7,
+          "landCells": 2822
+        },
+        {
+          "country": "Kyrgyzstan",
+          "pct": 24.6,
+          "landCells": 93
+        },
+        {
+          "country": "Zambia",
+          "pct": 24.1,
+          "landCells": 258
+        },
+        {
+          "country": "Somaliland",
+          "pct": 23.4,
+          "landCells": 64
+        },
+        {
+          "country": "Botswana",
+          "pct": 22.3,
+          "landCells": 218
+        },
+        {
+          "country": "Philippines",
+          "pct": 22.2,
+          "landCells": 165
+        },
+        {
+          "country": "Angola",
+          "pct": 22.1,
+          "landCells": 463
+        },
+        {
+          "country": "Peru",
+          "pct": 21.4,
+          "landCells": 448
+        },
+        {
+          "country": "Antarctica",
+          "pct": 20.3,
+          "landCells": 24649
+        },
+        {
+          "country": "Costa Rica",
+          "pct": 20.0,
+          "landCells": 25
+        },
+        {
+          "country": "Falkland Is.",
+          "pct": 16.9,
+          "landCells": 12
+        },
+        {
+          "country": "Tunisia",
+          "pct": 16.8,
+          "landCells": 55
+        },
+        {
+          "country": "Paraguay",
+          "pct": 15.0,
+          "landCells": 165
+        },
+        {
+          "country": "Ethiopia",
+          "pct": 15.0,
+          "landCells": 381
+        },
+        {
+          "country": "Turkmenistan",
+          "pct": 13.4,
+          "landCells": 204
+        },
+        {
+          "country": "S. Sudan",
+          "pct": 12.6,
+          "landCells": 238
+        },
+        {
+          "country": "Central African Rep.",
+          "pct": 12.2,
+          "landCells": 220
+        },
+        {
+          "country": "Ireland",
+          "pct": 11.7,
+          "landCells": 33
+        },
+        {
+          "country": "Syria",
+          "pct": 7.9,
+          "landCells": 78
+        },
+        {
+          "country": "Venezuela",
+          "pct": 7.8,
+          "landCells": 332
+        },
+        {
+          "country": "Mongolia",
+          "pct": 7.3,
+          "landCells": 716
+        },
+        {
+          "country": "Somalia",
+          "pct": 6.2,
+          "landCells": 174
+        },
+        {
+          "country": "Netherlands",
+          "pct": 6.2,
+          "landCells": 33
+        },
+        {
+          "country": "Sierra Leone",
+          "pct": 5.5,
+          "landCells": 36
+        },
+        {
+          "country": "Tanzania",
+          "pct": 5.2,
+          "landCells": 285
+        },
+        {
+          "country": "Solomon Is.",
+          "pct": 4.2,
+          "landCells": 24
+        },
+        {
+          "country": "Colombia",
+          "pct": 2.3,
+          "landCells": 385
+        },
+        {
+          "country": "South Korea",
+          "pct": 1.9,
+          "landCells": 50
+        },
+        {
+          "country": "Papua New Guinea",
+          "pct": 0.6,
+          "landCells": 179
+        },
+        {
+          "country": "Indonesia",
+          "pct": 0.0,
+          "landCells": 758
+        },
+        {
+          "country": "Dem. Rep. Congo",
+          "pct": 0.0,
+          "landCells": 695
+        },
+        {
+          "country": "Kenya",
+          "pct": 0.0,
+          "landCells": 189
+        },
+        {
+          "country": "Timor-Leste",
+          "pct": 0.0,
+          "landCells": 11
+        },
+        {
+          "country": "Panama",
+          "pct": 0.0,
+          "landCells": 39
+        },
+        {
+          "country": "Guyana",
+          "pct": 0.0,
+          "landCells": 77
+        },
+        {
+          "country": "Suriname",
+          "pct": 0.0,
+          "landCells": 56
+        },
+        {
+          "country": "Ecuador",
+          "pct": 0.0,
+          "landCells": 97
+        },
+        {
+          "country": "Benin",
+          "pct": 0.0,
+          "landCells": 26
+        },
+        {
+          "country": "Nigeria",
+          "pct": 0.0,
+          "landCells": 310
+        },
+        {
+          "country": "Cameroon",
+          "pct": 0.0,
+          "landCells": 155
+        },
+        {
+          "country": "Togo",
+          "pct": 0.0,
+          "landCells": 23
+        },
+        {
+          "country": "Ghana",
+          "pct": 0.0,
+          "landCells": 78
+        },
+        {
+          "country": "C\u00f4te d'Ivoire",
+          "pct": 0.0,
+          "landCells": 110
+        },
+        {
+          "country": "Liberia",
+          "pct": 0.0,
+          "landCells": 40
+        },
+        {
+          "country": "Burkina Faso",
+          "pct": 0.0,
+          "landCells": 110
+        },
+        {
+          "country": "Congo",
+          "pct": 0.0,
+          "landCells": 118
+        },
+        {
+          "country": "Gabon",
+          "pct": 0.0,
+          "landCells": 96
+        },
+        {
+          "country": "Eq. Guinea",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Malawi",
+          "pct": 0.0,
+          "landCells": 38
+        },
+        {
+          "country": "Burundi",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Lebanon",
+          "pct": 0.0,
+          "landCells": 5
+        },
+        {
+          "country": "Armenia",
+          "pct": 0.0,
+          "landCells": 4
+        },
+        {
+          "country": "Sri Lanka",
+          "pct": 0.0,
+          "landCells": 31
+        },
+        {
+          "country": "Malaysia",
+          "pct": 0.0,
+          "landCells": 146
+        },
+        {
+          "country": "Brunei",
+          "pct": 0.0,
+          "landCells": 6
+        },
+        {
+          "country": "N. Cyprus",
+          "pct": 0.0,
+          "landCells": 2
+        },
+        {
+          "country": "Cyprus",
+          "pct": 0.0,
+          "landCells": 9
+        },
+        {
+          "country": "Uganda",
+          "pct": 0.0,
+          "landCells": 91
+        },
+        {
+          "country": "Rwanda",
+          "pct": 0.0,
+          "landCells": 12
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "pct": 0.0,
+          "landCells": 7
+        }
+      ]
+    },
+    "ssp585_2071_2099": {
+      "scenario": "ssp585",
+      "label": "2071\u20132099",
+      "pctLandChangingZone": 52.3,
+      "topTransitions": [
+        {
+          "from": "BSh",
+          "to": "BWh",
+          "pctOfChanged": 21.4
+        },
+        {
+          "from": "ET",
+          "to": "Dfc",
+          "pctOfChanged": 10.6
+        },
+        {
+          "from": "Dfb",
+          "to": "Cfa",
+          "pctOfChanged": 7.8
+        },
+        {
+          "from": "EF",
+          "to": "ET",
+          "pctOfChanged": 7.6
+        },
+        {
+          "from": "Dfc",
+          "to": "Dfb",
+          "pctOfChanged": 6.9
+        },
+        {
+          "from": "Cfa",
+          "to": "Aw",
+          "pctOfChanged": 6.2
+        },
+        {
+          "from": "Dfb",
+          "to": "Dfa",
+          "pctOfChanged": 6.1
+        },
+        {
+          "from": "Aw",
+          "to": "Am",
+          "pctOfChanged": 4.8
+        }
+      ],
+      "countryRanking": [
+        {
+          "country": "W. Sahara",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Bahamas",
+          "pct": 100.0,
+          "landCells": 16
+        },
+        {
+          "country": "Falkland Is.",
+          "pct": 100.0,
+          "landCells": 12
+        },
+        {
+          "country": "Fr. S. Antarctic Lands",
+          "pct": 100.0,
+          "landCells": 12
+        },
+        {
+          "country": "Cuba",
+          "pct": 100.0,
+          "landCells": 66
+        },
+        {
+          "country": "eSwatini",
+          "pct": 100.0,
+          "landCells": 11
+        },
+        {
+          "country": "Palestine",
+          "pct": 100.0,
+          "landCells": 5
+        },
+        {
+          "country": "United Arab Emirates",
+          "pct": 100.0,
+          "landCells": 27
+        },
+        {
+          "country": "Qatar",
+          "pct": 100.0,
+          "landCells": 5
+        },
+        {
+          "country": "Kuwait",
+          "pct": 100.0,
+          "landCells": 3
+        },
+        {
+          "country": "Bangladesh",
+          "pct": 100.0,
+          "landCells": 69
+        },
+        {
+          "country": "Bhutan",
+          "pct": 100.0,
+          "landCells": 18
+        },
+        {
+          "country": "Belarus",
+          "pct": 100.0,
+          "landCells": 102
+        },
+        {
+          "country": "Poland",
+          "pct": 100.0,
+          "landCells": 166
+        },
+        {
+          "country": "Austria",
+          "pct": 100.0,
+          "landCells": 25
+        },
+        {
+          "country": "Moldova",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Lithuania",
+          "pct": 100.0,
+          "landCells": 39
+        },
+        {
+          "country": "Latvia",
+          "pct": 100.0,
+          "landCells": 43
+        },
+        {
+          "country": "Estonia",
+          "pct": 100.0,
+          "landCells": 39
+        },
+        {
+          "country": "Germany",
+          "pct": 100.0,
+          "landCells": 183
+        },
+        {
+          "country": "Croatia",
+          "pct": 100.0,
+          "landCells": 17
+        },
+        {
+          "country": "Switzerland",
+          "pct": 100.0,
+          "landCells": 26
+        },
+        {
+          "country": "Luxembourg",
+          "pct": 100.0,
+          "landCells": 3
+        },
+        {
+          "country": "Belgium",
+          "pct": 100.0,
+          "landCells": 18
+        },
+        {
+          "country": "Netherlands",
+          "pct": 100.0,
+          "landCells": 33
+        },
+        {
+          "country": "Ireland",
+          "pct": 100.0,
+          "landCells": 33
+        },
+        {
+          "country": "New Caledonia",
+          "pct": 100.0,
+          "landCells": 15
+        },
+        {
+          "country": "Taiwan",
+          "pct": 100.0,
+          "landCells": 19
+        },
+        {
+          "country": "Denmark",
+          "pct": 100.0,
+          "landCells": 37
+        },
+        {
+          "country": "United Kingdom",
+          "pct": 100.0,
+          "landCells": 174
+        },
+        {
+          "country": "Iceland",
+          "pct": 100.0,
+          "landCells": 96
+        },
+        {
+          "country": "Slovenia",
+          "pct": 100.0,
+          "landCells": 18
+        },
+        {
+          "country": "Slovakia",
+          "pct": 100.0,
+          "landCells": 32
+        },
+        {
+          "country": "Czechia",
+          "pct": 100.0,
+          "landCells": 54
+        },
+        {
+          "country": "Bosnia and Herz.",
+          "pct": 100.0,
+          "landCells": 28
+        },
+        {
+          "country": "Montenegro",
+          "pct": 100.0,
+          "landCells": 11
+        },
+        {
+          "country": "Sweden",
+          "pct": 98.7,
+          "landCells": 345
+        },
+        {
+          "country": "Romania",
+          "pct": 98.3,
+          "landCells": 112
+        },
+        {
+          "country": "Pakistan",
+          "pct": 97.7,
+          "landCells": 330
+        },
+        {
+          "country": "Ukraine",
+          "pct": 97.3,
+          "landCells": 294
+        },
+        {
+          "country": "Hungary",
+          "pct": 97.3,
+          "landCells": 36
+        },
+        {
+          "country": "Tajikistan",
+          "pct": 97.0,
+          "landCells": 68
+        },
+        {
+          "country": "Bulgaria",
+          "pct": 95.7,
+          "landCells": 47
+        },
+        {
+          "country": "Finland",
+          "pct": 93.4,
+          "landCells": 276
+        },
+        {
+          "country": "Albania",
+          "pct": 93.3,
+          "landCells": 15
+        },
+        {
+          "country": "Haiti",
+          "pct": 92.9,
+          "landCells": 14
+        },
+        {
+          "country": "Cambodia",
+          "pct": 92.3,
+          "landCells": 52
+        },
+        {
+          "country": "Kosovo",
+          "pct": 90.9,
+          "landCells": 11
+        },
+        {
+          "country": "Jamaica",
+          "pct": 90.0,
+          "landCells": 10
+        },
+        {
+          "country": "Uzbekistan",
+          "pct": 89.8,
+          "landCells": 199
+        },
+        {
+          "country": "Fiji",
+          "pct": 88.9,
+          "landCells": 18
+        },
+        {
+          "country": "Italy",
+          "pct": 85.7,
+          "landCells": 187
+        },
+        {
+          "country": "Georgia",
+          "pct": 85.5,
+          "landCells": 42
+        },
+        {
+          "country": "France",
+          "pct": 83.9,
+          "landCells": 299
+        },
+        {
+          "country": "Gambia",
+          "pct": 83.3,
+          "landCells": 12
+        },
+        {
+          "country": "Djibouti",
+          "pct": 83.3,
+          "landCells": 12
+        },
+        {
+          "country": "Serbia",
+          "pct": 83.3,
+          "landCells": 43
+        },
+        {
+          "country": "Kyrgyzstan",
+          "pct": 83.0,
+          "landCells": 93
+        },
+        {
+          "country": "Puerto Rico",
+          "pct": 81.8,
+          "landCells": 11
+        },
+        {
+          "country": "Guinea-Bissau",
+          "pct": 80.9,
+          "landCells": 21
+        },
+        {
+          "country": "Canada",
+          "pct": 80.5,
+          "landCells": 7353
+        },
+        {
+          "country": "Mexico",
+          "pct": 78.1,
+          "landCells": 771
+        },
+        {
+          "country": "Vanuatu",
+          "pct": 77.7,
+          "landCells": 9
+        },
+        {
+          "country": "Chile",
+          "pct": 77.3,
+          "landCells": 426
+        },
+        {
+          "country": "Honduras",
+          "pct": 76.1,
+          "landCells": 46
+        },
+        {
+          "country": "Nicaragua",
+          "pct": 75.5,
+          "landCells": 49
+        },
+        {
+          "country": "Saudi Arabia",
+          "pct": 74.9,
+          "landCells": 725
+        },
+        {
+          "country": "Israel",
+          "pct": 74.7,
+          "landCells": 4
+        },
+        {
+          "country": "South Africa",
+          "pct": 74.3,
+          "landCells": 432
+        },
+        {
+          "country": "Namibia",
+          "pct": 73.5,
+          "landCells": 304
+        },
+        {
+          "country": "China",
+          "pct": 72.4,
+          "landCells": 3983
+        },
+        {
+          "country": "Jordan",
+          "pct": 72.2,
+          "landCells": 29
+        },
+        {
+          "country": "Russia",
+          "pct": 71.9,
+          "landCells": 12027
+        },
+        {
+          "country": "Morocco",
+          "pct": 71.7,
+          "landCells": 255
+        },
+        {
+          "country": "Egypt",
+          "pct": 69.7,
+          "landCells": 389
+        },
+        {
+          "country": "New Zealand",
+          "pct": 69.4,
+          "landCells": 156
+        },
+        {
+          "country": "Lesotho",
+          "pct": 66.9,
+          "landCells": 18
+        },
+        {
+          "country": "Oman",
+          "pct": 66.5,
+          "landCells": 118
+        },
+        {
+          "country": "Norway",
+          "pct": 62.9,
+          "landCells": 390
+        },
+        {
+          "country": "Vietnam",
+          "pct": 61.9,
+          "landCells": 129
+        },
+        {
+          "country": "Chad",
+          "pct": 61.3,
+          "landCells": 408
+        },
+        {
+          "country": "Senegal",
+          "pct": 60.1,
+          "landCells": 50
+        },
+        {
+          "country": "El Salvador",
+          "pct": 60.0,
+          "landCells": 10
+        },
+        {
+          "country": "Greenland",
+          "pct": 58.0,
+          "landCells": 2859
+        },
+        {
+          "country": "Madagascar",
+          "pct": 58.0,
+          "landCells": 234
+        },
+        {
+          "country": "Zimbabwe",
+          "pct": 57.9,
+          "landCells": 116
+        },
+        {
+          "country": "Benin",
+          "pct": 57.5,
+          "landCells": 26
+        },
+        {
+          "country": "Guinea",
+          "pct": 57.2,
+          "landCells": 82
+        },
+        {
+          "country": "Mozambique",
+          "pct": 57.0,
+          "landCells": 321
+        },
+        {
+          "country": "North Korea",
+          "pct": 56.7,
+          "landCells": 56
+        },
+        {
+          "country": "Afghanistan",
+          "pct": 55.6,
+          "landCells": 248
+        },
+        {
+          "country": "Libya",
+          "pct": 55.6,
+          "landCells": 655
+        },
+        {
+          "country": "United States of America",
+          "pct": 54.8,
+          "landCells": 4705
+        },
+        {
+          "country": "Argentina",
+          "pct": 54.0,
+          "landCells": 1088
+        },
+        {
+          "country": "Dominican Rep.",
+          "pct": 53.6,
+          "landCells": 28
+        },
+        {
+          "country": "Niger",
+          "pct": 53.6,
+          "landCells": 399
+        },
+        {
+          "country": "Iran",
+          "pct": 52.2,
+          "landCells": 647
+        },
+        {
+          "country": "Australia",
+          "pct": 51.9,
+          "landCells": 2920
+        },
+        {
+          "country": "Iraq",
+          "pct": 50.8,
+          "landCells": 150
+        },
+        {
+          "country": "Uruguay",
+          "pct": 50.5,
+          "landCells": 68
+        },
+        {
+          "country": "India",
+          "pct": 50.3,
+          "landCells": 1091
+        },
+        {
+          "country": "Portugal",
+          "pct": 47.8,
+          "landCells": 37
+        },
+        {
+          "country": "Spain",
+          "pct": 47.3,
+          "landCells": 245
+        },
+        {
+          "country": "Antarctica",
+          "pct": 46.9,
+          "landCells": 24649
+        },
+        {
+          "country": "Mauritania",
+          "pct": 43.3,
+          "landCells": 399
+        },
+        {
+          "country": "Japan",
+          "pct": 42.9,
+          "landCells": 215
+        },
+        {
+          "country": "Mali",
+          "pct": 42.7,
+          "landCells": 372
+        },
+        {
+          "country": "Azerbaijan",
+          "pct": 42.0,
+          "landCells": 45
+        },
+        {
+          "country": "North Macedonia",
+          "pct": 41.6,
+          "landCells": 12
+        },
+        {
+          "country": "Sudan",
+          "pct": 39.1,
+          "landCells": 566
+        },
+        {
+          "country": "Bolivia",
+          "pct": 37.8,
+          "landCells": 383
+        },
+        {
+          "country": "Algeria",
+          "pct": 37.3,
+          "landCells": 867
+        },
+        {
+          "country": "Kazakhstan",
+          "pct": 37.0,
+          "landCells": 1233
+        },
+        {
+          "country": "Nepal",
+          "pct": 35.9,
+          "landCells": 59
+        },
+        {
+          "country": "Greece",
+          "pct": 34.7,
+          "landCells": 76
+        },
+        {
+          "country": "Myanmar",
+          "pct": 34.5,
+          "landCells": 239
+        },
+        {
+          "country": "Thailand",
+          "pct": 32.9,
+          "landCells": 167
+        },
+        {
+          "country": "Laos",
+          "pct": 31.6,
+          "landCells": 76
+        },
+        {
+          "country": "Peru",
+          "pct": 31.0,
+          "landCells": 448
+        },
+        {
+          "country": "Angola",
+          "pct": 30.7,
+          "landCells": 463
+        },
+        {
+          "country": "Turkey",
+          "pct": 30.4,
+          "landCells": 369
+        },
+        {
+          "country": "Mongolia",
+          "pct": 29.9,
+          "landCells": 716
+        },
+        {
+          "country": "Brazil",
+          "pct": 28.4,
+          "landCells": 2822
+        },
+        {
+          "country": "Eritrea",
+          "pct": 27.8,
+          "landCells": 36
+        },
+        {
+          "country": "Yemen",
+          "pct": 27.7,
+          "landCells": 160
+        },
+        {
+          "country": "Belize",
+          "pct": 26.7,
+          "landCells": 15
+        },
+        {
+          "country": "Central African Rep.",
+          "pct": 25.8,
+          "landCells": 220
+        },
+        {
+          "country": "Guatemala",
+          "pct": 25.7,
+          "landCells": 47
+        },
+        {
+          "country": "S. Sudan",
+          "pct": 25.6,
+          "landCells": 238
+        },
+        {
+          "country": "Zambia",
+          "pct": 24.1,
+          "landCells": 258
+        },
+        {
+          "country": "Ethiopia",
+          "pct": 23.6,
+          "landCells": 381
+        },
+        {
+          "country": "Somaliland",
+          "pct": 23.4,
+          "landCells": 64
+        },
+        {
+          "country": "Botswana",
+          "pct": 23.2,
+          "landCells": 218
+        },
+        {
+          "country": "Philippines",
+          "pct": 22.2,
+          "landCells": 165
+        },
+        {
+          "country": "Costa Rica",
+          "pct": 20.0,
+          "landCells": 25
+        },
+        {
+          "country": "Paraguay",
+          "pct": 16.9,
+          "landCells": 165
+        },
+        {
+          "country": "Tunisia",
+          "pct": 16.8,
+          "landCells": 55
+        },
+        {
+          "country": "Burkina Faso",
+          "pct": 16.5,
+          "landCells": 110
+        },
+        {
+          "country": "Turkmenistan",
+          "pct": 13.4,
+          "landCells": 204
+        },
+        {
+          "country": "Malawi",
+          "pct": 13.1,
+          "landCells": 38
+        },
+        {
+          "country": "Togo",
+          "pct": 13.0,
+          "landCells": 23
+        },
+        {
+          "country": "Ghana",
+          "pct": 10.2,
+          "landCells": 78
+        },
+        {
+          "country": "Tanzania",
+          "pct": 8.7,
+          "landCells": 285
+        },
+        {
+          "country": "Syria",
+          "pct": 7.9,
+          "landCells": 78
+        },
+        {
+          "country": "Venezuela",
+          "pct": 7.8,
+          "landCells": 332
+        },
+        {
+          "country": "Somalia",
+          "pct": 6.2,
+          "landCells": 174
+        },
+        {
+          "country": "Nigeria",
+          "pct": 6.1,
+          "landCells": 310
+        },
+        {
+          "country": "Sierra Leone",
+          "pct": 5.5,
+          "landCells": 36
+        },
+        {
+          "country": "Solomon Is.",
+          "pct": 4.2,
+          "landCells": 24
+        },
+        {
+          "country": "C\u00f4te d'Ivoire",
+          "pct": 3.6,
+          "landCells": 110
+        },
+        {
+          "country": "Colombia",
+          "pct": 2.3,
+          "landCells": 385
+        },
+        {
+          "country": "South Korea",
+          "pct": 1.9,
+          "landCells": 50
+        },
+        {
+          "country": "Papua New Guinea",
+          "pct": 0.6,
+          "landCells": 179
+        },
+        {
+          "country": "Indonesia",
+          "pct": 0.0,
+          "landCells": 758
+        },
+        {
+          "country": "Dem. Rep. Congo",
+          "pct": 0.0,
+          "landCells": 695
+        },
+        {
+          "country": "Kenya",
+          "pct": 0.0,
+          "landCells": 189
+        },
+        {
+          "country": "Timor-Leste",
+          "pct": 0.0,
+          "landCells": 11
+        },
+        {
+          "country": "Panama",
+          "pct": 0.0,
+          "landCells": 39
+        },
+        {
+          "country": "Guyana",
+          "pct": 0.0,
+          "landCells": 77
+        },
+        {
+          "country": "Suriname",
+          "pct": 0.0,
+          "landCells": 56
+        },
+        {
+          "country": "Ecuador",
+          "pct": 0.0,
+          "landCells": 97
+        },
+        {
+          "country": "Cameroon",
+          "pct": 0.0,
+          "landCells": 155
+        },
+        {
+          "country": "Liberia",
+          "pct": 0.0,
+          "landCells": 40
+        },
+        {
+          "country": "Congo",
+          "pct": 0.0,
+          "landCells": 118
+        },
+        {
+          "country": "Gabon",
+          "pct": 0.0,
+          "landCells": 96
+        },
+        {
+          "country": "Eq. Guinea",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Burundi",
+          "pct": 0.0,
+          "landCells": 13
+        },
+        {
+          "country": "Lebanon",
+          "pct": 0.0,
+          "landCells": 5
+        },
+        {
+          "country": "Armenia",
+          "pct": 0.0,
+          "landCells": 4
+        },
+        {
+          "country": "Sri Lanka",
+          "pct": 0.0,
+          "landCells": 31
+        },
+        {
+          "country": "Malaysia",
+          "pct": 0.0,
+          "landCells": 146
+        },
+        {
+          "country": "Brunei",
+          "pct": 0.0,
+          "landCells": 6
+        },
+        {
+          "country": "N. Cyprus",
+          "pct": 0.0,
+          "landCells": 2
+        },
+        {
+          "country": "Cyprus",
+          "pct": 0.0,
+          "landCells": 9
+        },
+        {
+          "country": "Uganda",
+          "pct": 0.0,
+          "landCells": 91
+        },
+        {
+          "country": "Rwanda",
+          "pct": 0.0,
+          "landCells": 12
+        },
+        {
+          "country": "Trinidad and Tobago",
+          "pct": 0.0,
+          "landCells": 7
+        }
+      ]
+    }
+  }
+}
